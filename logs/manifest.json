@@ -1,0 +1,21 @@
+[
+  {
+    "timestamp": "2025-10-11T03:35:00.039Z",
+    "ipAddress": "171.234.15.203",
+    "imagePath": "logs/images/2025-10-11T03-34-56-035Z.png",
+    "promptPath": "logs/prompts/2025-10-11T03-34-56-035Z.md",
+    "formData": {
+      "gender": "N/A",
+      "framing": "N/A",
+      "background": "N/A",
+      "swarpFace": true,
+      "theme": "Studio Nghệ Thuật: Playboy x Gucci",
+      "location": "N/A",
+      "action": "N/A",
+      "emotion": "N/A",
+      "style": "N/A",
+      "resolution": "4K",
+      "aspectRatio": "9:16"
+    }
+  }
+]
