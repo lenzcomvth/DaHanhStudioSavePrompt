@@ -1,0 +1,34 @@
+Timestamp: 09:56:17 11/10/2025
+IP Address: 171.234.15.203
+
+--- PROMPT ---
+Một buổi chụp ảnh thời trang cao cấp cho tạp chí Playboy và thương hiệu Versace, với chủ đề "Thiên thần Versace":
+
+**Bối cảnh (Scene & Location):** Cung điện ánh sáng Versace. Một sảnh đường nguy nga, tráng lệ với trần nhà cao vút, được lát bằng đá cẩm thạch đen bóng loáng phản chiếu ánh sáng và hình ảnh. Hai hàng cột Doric khổng lồ màu đen tuyền được trang trí viền Greca vàng lấp lánh chạy dọc hai bên, dẫn đến một cổng vòm Medusa khổng lồ dát vàng ở cuối sảnh, tỏa ra ánh sáng thần thoại. Không gian toát lên vẻ quyền uy, xa hoa và đậm chất kiến trúc Hy Lạp cổ điển pha trộn sự táo bạo của Versace.
+
+**Trang phục & Styling (Outfits & Styling):**
+*   **Người mẫu #1 (Tóc nâu sẫm gợn sóng):** Diện bộ monokini Versace màu đen tuyền cắt xẻ táo bạo, được đính kết những chi tiết vàng Medusa và Greca lấp lánh trên phần eo và vai, tạo hiệu ứng giáp trụ. Phía sau là một chiếc áo choàng lụa satin màu đen tuyền dài quét đất, với mặt trong màu vàng kim lộng lẫy, bung nở như đôi cánh thiên thần khi chuyển động, tạo thành một vệt sáng ấn tượng. Đi kèm bốt cao gót Versace bằng da đen bóng. Trang sức vàng Medusa statement, bao gồm vòng cổ và khuyên tai lớn.
+*   **Người mẫu #2 (Tóc nâu nhạt xoăn dài):** Diện bộ bikini Versace hai mảnh màu vàng kim óng ánh, được làm từ chất liệu lụa hoặc kim loại dệt tinh xảo, đính kết đá quý nhỏ lấp lánh và các chi tiết Medusa tinh xảo. Cô ấy mang một đôi cánh thiên thần bằng vàng mờ, được thiết kế theo phong cách điêu khắc, với những đường nét sắc sảo, hiện đại, như thể được đúc từ vàng khối, phản chiếu ánh sáng một cách mê hoặc. Đi kèm sandals cao gót quấn dây màu vàng kim. Trang sức vàng Versace tinh tế nhưng vẫn nổi bật, vòng tay và khuyên tai thả dài.
+
+**Tạo dáng & Tương tác (Posing & Interaction):** Hai người mẫu đang sải bước mạnh mẽ, uyển chuyển về phía trước, tạo thành một hàng ngang hoặc Người mẫu #1 hơi chếch về phía trước, dẫn đầu. Cả hai nhìn thẳng vào ống kính với ánh mắt tự tin, quyền lực, pha chút bí ẩn và gợi cảm. Biểu cảm sắc lạnh nhưng đầy lôi cuốn, như những nữ thần chiến binh kiêu hãnh. Tóc bay lượn mềm mại theo từng bước đi, nhấn mạnh sự chuyển động và thần thái. Áo choàng/cánh tạo độ phồng và kịch tính.
+
+**Ánh sáng (Lighting):** Ánh sáng sân khấu kịch tính, Chiaroscuro. Một nguồn sáng chính mạnh mẽ từ phía trên và chếch nhẹ về phía trước, tạo ra những vùng sáng tối tương phản mạnh trên cơ thể và khuôn mặt, tôn lên đường nét sắc sảo. Ánh sáng vàng ấm từ phía sau (rim light) bao bọc viền tóc, cánh và áo choàng, tạo hiệu ứng hào quang thần thánh, lấp lánh trên các chi tiết vàng của trang phục và phụ kiện, tách biệt người mẫu khỏi phông nền. Không gian xung quanh có ánh sáng yếu hơn, tạo chiều sâu và tập trung vào chủ thể.
+
+**Góc máy & Bố cục (Framing & Composition):** Góc máy cực thấp (low-angle shot), hơi nghiêng nhẹ, nhìn lên hai người mẫu để nhấn mạnh sự cao lớn, quyền uy và khí chất siêu phàm của họ. Bố cục toàn thân (full-body shot) hoặc crop nhẹ dưới đầu gối, để lộ rõ toàn bộ trang phục, đôi cánh/áo choàng và bước đi dứt khoát. Các đường thẳng đứng của cột và đường ngang của sàn cẩm thạch tạo ra một khung cảnh ấn tượng, dẫn mắt người xem trực tiếp đến hai người mẫu, biến họ thành tâm điểm tuyệt đối của bức ảnh.
+
+**Không khí & Cảm xúc (Mood & Emotion):** Sang trọng tột bậc, quyền lực tuyệt đối, gợi cảm nguy hiểm, thần thoại, siêu thực, kịch tính, và đầy tự tin. Một không khí của sự xa hoa phi thường, nơi những thiên thần không chỉ đẹp mà còn mạnh mẽ, kiêu hãnh, thống trị không gian. Cảm giác như đang chứng kiến một khoảnh khắc thần thánh, một giấc mơ hoang dại của Versace.
+
+--- FORM DATA ---
+{
+  "gender": "N/A",
+  "framing": "N/A",
+  "background": "N/A",
+  "swarpFace": true,
+  "theme": "Studio Nghệ Thuật: Playboy x Versace",
+  "location": "N/A",
+  "action": "N/A",
+  "emotion": "N/A",
+  "style": "N/A",
+  "resolution": "4K",
+  "aspectRatio": "9:16"
+}
