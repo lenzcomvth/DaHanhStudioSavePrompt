@@ -1,0 +1,20 @@
+Timestamp: 09:43:51 11/10/2025
+IP Address: 171.234.15.203
+
+--- PROMPT ---
+Một buổi chụp ảnh thời trang cao cấp cho tạp chí Playboy và Zara Vietnam, lấy cảm hứng từ chủ đề Thiên thần Victoria's Secret với phong cách "Dark Themes" trên bãi biển về đêm. Bối cảnh là một bãi biển hoang sơ, hùng vĩ vào đêm khuya, với bờ cát đen mịn ẩm ướt phản chiếu ánh trăng lưỡi liềm vàng rực mờ ảo. Những khối đá trầm tích khổng lồ sừng sững vươn mình ra biển và những thân gỗ hóa thạch gồ ghề tạo thành một kiến trúc tự nhiên ấn tượng, bí ẩn. Bầu trời đêm u ám nhưng vẫn để lộ vầng trăng, chiếu ánh sáng bạc lên mặt nước biển gợn sóng nhẹ, tạo hiệu ứng lấp lánh huyền ảo. Người mẫu nam, thanh niên, tóc ngắn màu nâu sẫm, diện một bộ suit cách tân từ Zara Vietnam: áo blazer dáng rộng, không cổ, màu than chì sẫm, chất liệu vải crepe cao cấp, khoác hờ trên vai trần. Bên trong là áo sơ mi lụa tơ tằm màu đen tuyền, bán trong suốt, cài hờ vài nút để lộ phần ngực và xương quai xanh. Quần tây ống rộng, xếp ly, cùng tông màu, chất liệu vải len cashmere pha lụa mềm mại. Giày bốt da Chelsea màu đen bóng. Người mẫu nữ, khoảng 20-30 tuổi, tóc dài xoăn màu nâu đen bồng bềnh tự nhiên, khoác lên mình một thiết kế đầm dạ hội dài xẻ tà cao, dáng slip dress từ Zara Vietnam, màu đen tuyền với chất liệu lụa satin mờ, cut-out tinh tế ở eo và lưng. Bên ngoài là một áo choàng cape dáng dài, làm từ voan lụa xuyên thấu màu khói, có chi tiết đính kết lấp lánh nhẹ nhàng mô phỏng cánh thiên thần bị ẩn giấu. Trang điểm mắt khói đậm, môi màu nude đất sang trọng. Người mẫu nữ đứng trên một tảng đá cao, thân hình uốn lượn nhẹ nhàng, một tay vuốt tóc, ánh mắt nhìn thẳng vào ống kính với vẻ bí ẩn, kiêu hãnh. Chiếc áo choàng voan bay lượn nhẹ nhàng trong gió đêm, tạo hiệu ứng "cánh thiên thần" mờ ảo. Người mẫu nam quỳ gối nhẹ nhàng dưới chân tảng đá, một tay chống đất, một tay chạm nhẹ vào gót chân của người mẫu nữ, ánh mắt ngước nhìn lên với vẻ ngưỡng mộ, say mê và một chút phục tùng, tạo nên sự tương phản về quyền lực và sự quyến rũ. Cả hai đều có biểu cảm nửa thách thức, nửa mời gọi, đầy sức hút. Ánh sáng chủ đạo là ánh trăng lưỡi liềm vàng rực chiếu rọi từ phía sau, tạo hiệu ứng rim light mạnh mẽ và kịch tính, phác họa rõ nét đường nét cơ thể và trang phục. Một nguồn sáng phụ thấp, dịu nhẹ màu xanh thẫm từ phía trước và dưới chân, mô phỏng ánh sáng phản chiếu từ mặt nước, làm nổi bật khuôn mặt và chi tiết. Hiệu ứng ánh sáng Chiaroscuro sâu thẳm, tạo ra sự tương phản cực đại giữa vùng sáng và vùng tối, nhấn mạnh sự bí ẩn và vẻ đẹp ma mị. Góc máy thấp (low-angle shot), ngang tầm mắt của người mẫu nam, hướng lên phía người mẫu nữ đang đứng trên tảng đá. Bố cục theo quy tắc 1/3, đặt người mẫu nữ ở điểm mạnh của khung hình, người mẫu nam ở điểm mạnh đối diện, tạo sự cân bằng nhưng cũng đầy kịch tính. Đường chân trời thấp, để lộ bầu trời đêm rộng lớn với ánh trăng. Khối đá và thân gỗ hóa thạch được sử dụng làm tiền cảnh và trung cảnh, tạo độ sâu và khung hình tự nhiên, hướng ánh nhìn của người xem vào hai người mẫu ở vị trí trung tâm. Khoảng không âm (negative space) của biển và bầu trời đêm rộng lớn tôn lên vẻ cô độc, mạnh mẽ của chủ thể. Không khí tổng thể là huyền bí, kịch tính và đầy quyến rũ. Cảm xúc truyền tải là sự sang trọng tột bậc, sự tự tin ngút ngàn, và một chút nổi loạn đầy tinh tế. Một vẻ đẹp ma mị, thoát tục như những thiên thần bóng đêm lạc bước giữa trần gian, mang đến cảm giác vừa xa vời, vừa mời gọi, vừa bí ẩn đến nghẹt thở.
+
+--- FORM DATA ---
+{
+  "gender": "N/A",
+  "framing": "N/A",
+  "background": "N/A",
+  "swarpFace": true,
+  "theme": "Studio Nghệ Thuật: Playboy x Zara Vietnam",
+  "location": "N/A",
+  "action": "N/A",
+  "emotion": "N/A",
+  "style": "N/A",
+  "resolution": "4K",
+  "aspectRatio": "9:16"
+}
