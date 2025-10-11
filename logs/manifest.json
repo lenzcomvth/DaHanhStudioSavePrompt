@@ -437,5 +437,25 @@
       "resolution": "4K",
       "aspectRatio": "9:16"
     }
+  },
+  {
+    "timestamp": "2025-10-11T11:13:40.753Z",
+    "ipAddress": "113.23.54.38",
+    "imagePath": "logs/images/2025-10-11T11-13-37-020Z.png",
+    "promptPath": "logs/prompts/2025-10-11T11-13-37-020Z.md",
+    "generatedPrompt": "[Tạo ảnh nâng cao - Biến thể F:1/2 V:4/10] cô gái cầm sản phẩm, cận cảnh bàn tay đang cầm sản phẩm",
+    "formData": {
+      "gender": "Nam",
+      "framing": "Chân dung",
+      "background": "Tập trung nhân vật",
+      "swarpFace": true,
+      "theme": "",
+      "location": "",
+      "action": "",
+      "emotion": "",
+      "style": "",
+      "resolution": "4K",
+      "aspectRatio": "9:16"
+    }
   }
 ]
