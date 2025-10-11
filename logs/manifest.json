@@ -457,5 +457,25 @@
       "resolution": "4K",
       "aspectRatio": "9:16"
     }
+  },
+  {
+    "timestamp": "2025-10-11T11:13:50.890Z",
+    "ipAddress": "113.23.54.38",
+    "imagePath": "logs/images/2025-10-11T11-13-46-709Z.png",
+    "promptPath": "logs/prompts/2025-10-11T11-13-46-709Z.md",
+    "generatedPrompt": "[Tạo ảnh nâng cao - Biến thể F:1/2 V:5/10] cô gái cầm sản phẩm, nhìn qua vai, mỉm cười với máy ảnh, chụp góc qua vai",
+    "formData": {
+      "gender": "Nam",
+      "framing": "Chân dung",
+      "background": "Tập trung nhân vật",
+      "swarpFace": true,
+      "theme": "",
+      "location": "",
+      "action": "",
+      "emotion": "",
+      "style": "",
+      "resolution": "4K",
+      "aspectRatio": "9:16"
+    }
   }
 ]
