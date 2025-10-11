@@ -1,0 +1,37 @@
+Timestamp: 09:57:59 11/10/2025
+IP Address: 171.234.15.203
+
+--- PROMPT ---
+Một sàn diễn cao cấp được thiết kế theo kiến trúc Hy Lạp cổ điển pha trộn sự xa hoa hiện đại của Versace, với những cột đá cẩm thạch đen bóng, các chi tiết chạm khắc mạ vàng hình Medusa, và nền hồ bơi phản chiếu ánh sáng tựa gương. Khung cảnh như một đền thờ của những nữ thần, lung linh và huyền ảo.
+
+**Trang phục & Styling:**
+Người mẫu #1 (Tóc dài, gợn sóng, màu nâu sẫm, 25-30 tuổi): Diện bộ áo tắm liền thân Versace màu đen tuyền, cắt xẻ táo bạo, với chi tiết Medusa vàng khối lớn ở phần eo và dây đeo vai. Kết hợp với một chiếc áo khoác choàng dài, mỏng nhẹ bằng vải lụa voan đen có in họa tiết baroque Versace vàng kim lấp lánh, tạo hiệu ứng bay bổng và bí ẩn.
+Người mẫu #3 (Tóc dài xoăn màu nâu nhạt, 25-30 tuổi): Diện bộ bikini Versace hai mảnh màu trắng ngà, đính đá lấp lánh và các chi tiết kim loại vàng hình khóa Greca đặc trưng của Versace. Cô ấy khoác một chiếc áo lưới (mesh) dài tay, dáng ôm, xuyên thấu màu vàng đồng lấp lánh, để lộ bộ bikini bên trong.
+Cả hai người mẫu đều đi giày cao gót quai mảnh ánh vàng và đeo trang sức vàng Versace cỡ lớn (statement gold Versace jewelry) như vòng tay hoặc khuyên tai. Trang điểm sắc sảo, tập trung vào đôi mắt khói quyến rũ với eyeliner dày, da căng bóng khỏe mạnh, và đôi môi màu nude hoặc hồng đất gợi cảm. Tóc của người mẫu #1 được tạo kiểu gợn sóng bồng bềnh tự nhiên, còn tóc người mẫu #3 là những lọn xoăn mềm mại, cả hai đều được chải nhẹ nhàng để tạo vẻ quyến rũ.
+
+**Tạo dáng & Tương tác:**
+Hai người mẫu đang sải bước đầy kiêu hãnh và uy quyền về phía trước, bước ra từ bóng tối vào ánh sáng phản chiếu. Người mẫu #1 đi ở phía trước một chút, ánh mắt trực diện, mạnh mẽ nhìn thẳng vào ống kính với vẻ thách thức và bí ẩn, tư thế ưỡn ngực, vai mở rộng đầy tự tin. Người mẫu #3 bước ngay phía sau và hơi chếch sang một bên, ánh mắt quyến rũ, biểu cảm tự tin và sang trọng, nhẹ nhàng nhìn vào camera, tay hờ hững vuốt nhẹ mái tóc. Hai người thể hiện sự đồng điệu nhưng vẫn giữ cá tính riêng, tạo nên một đội hình quyền lực của những "thiên thần Versace" đang chiêm nghiệm thế giới của riêng họ.
+
+**Ánh sáng:**
+Thiết lập ánh sáng Chiaroscuro điện ảnh, sử dụng ánh sáng chính (key light) mạnh mẽ từ phía trước và hơi cao để làm nổi bật đường nét cơ thể và chi tiết trang phục, tạo ra bóng đổ sâu và kịch tính. Ánh sáng ven (rim light) mạnh mẽ từ phía sau và hai bên sẽ tạo quầng sáng vàng óng quanh cơ thể và tóc của họ, nhấn mạnh vẻ thần thánh và quyền lực, như thể họ đang tỏa sáng từ bên trong. Ánh sáng mềm mại phản chiếu từ mặt nước trên sàn diễn để tạo độ lấp lánh và không gian chiều sâu.
+
+**Góc máy & Bố cục:**
+Góc máy thấp (low-angle shot), chụp từ dưới lên để tôn vinh vóc dáng và thần thái quyền lực của hai người mẫu, biến họ thành những nữ thần. Bố cục 3/4 người, tập trung vào hai người mẫu ở trung tâm, với không gian phía trên đầu một chút để tạo cảm giác về sự vĩ đại và độ cao. Hậu cảnh được làm mờ nhẹ (shallow depth of field) để nổi bật chủ thể nhưng vẫn thể hiện được bối cảnh xa hoa.
+
+**Không khí & Cảm xúc:**
+Không khí tổng thể phải là sự kết hợp giữa gợi cảm, sang trọng tột bậc và quyền lực thần bí. Cảm xúc toát ra là sự tự tin tuyệt đối, vẻ đẹp không tì vết, và một chút thách thức. Toát lên tinh thần của những nữ thần hiện đại, mạnh mẽ, quyến rũ và không thể chạm tới, nắm giữ sự tự do và vẻ đẹp Playboy đầy cá tính trong thế giới Versace.
+
+--- FORM DATA ---
+{
+  "gender": "N/A",
+  "framing": "N/A",
+  "background": "N/A",
+  "swarpFace": true,
+  "theme": "Studio Nghệ Thuật: Playboy x Versace",
+  "location": "N/A",
+  "action": "N/A",
+  "emotion": "N/A",
+  "style": "N/A",
+  "resolution": "4K",
+  "aspectRatio": "9:16"
+}
