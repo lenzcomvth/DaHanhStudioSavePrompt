@@ -817,5 +817,25 @@
       "resolution": "4K",
       "aspectRatio": "9:16"
     }
+  },
+  {
+    "timestamp": "2025-10-12T03:57:26.895Z",
+    "ipAddress": "171.234.15.203",
+    "imagePath": "logs/images/2025-10-12T03-57-22-490Z.png",
+    "promptPath": "logs/prompts/2025-10-12T03-57-22-490Z.md",
+    "generatedPrompt": "Mẫu nam mặc quần bơi,\nmẫu nữ mặc bikini thỏ trắng\nở vườn địa đàng có bồn nước phun lên cao",
+    "formData": {
+      "gender": "N/A",
+      "framing": "N/A",
+      "background": "N/A",
+      "swarpFace": true,
+      "theme": "Studio Nghệ Thuật: Playboy x Gucci",
+      "location": "N/A",
+      "action": "N/A",
+      "emotion": "N/A",
+      "style": "N/A",
+      "resolution": "4K",
+      "aspectRatio": "9:16"
+    }
   }
 ]
