@@ -2357,5 +2357,25 @@
       "resolution": "4K",
       "aspectRatio": "9:16"
     }
+  },
+  {
+    "timestamp": "2025-10-12T19:31:59.984Z",
+    "ipAddress": "171.234.15.203",
+    "imagePath": "logs/images/2025-10-12T19-31-55-942Z.png",
+    "promptPath": "logs/prompts/2025-10-12T19-31-55-942Z.md",
+    "generatedPrompt": "Bối cảnh là một quán bar/lounge siêu sang trọng trên sân thượng tại trung tâm Manhattan về đêm, nơi ánh đèn thành phố lấp lánh như những viên kim cương xa xỉ. Không gian mang phong cách Art Deco hiện đại kết hợp với những chi tiết lấy cảm hứng từ biểu tượng Louis Vuitton: sàn đá cẩm thạch đen bóng loáng, quầy bar bằng đồng thau sang trọng, và các màn hình LED ẩn chiếu họa tiết monogram LV tinh tế. Không khí nóng bỏng và sôi động của một buổi tiệc đêm hè sang chảnh, thể hiện tinh thần phóng khoáng, đẳng cấp của Playboy và Louis Vuitton.\n\nNgười mẫu nam, tóc cạo sát màu đen bóng bẩy, mặc một chiếc quần short lụa cao cấp màu đen tuyền từ Louis Vuitton với họa tiết monogram ẩn, kết hợp với áo khoác bomber lụa Louis Vuitton mở hờ, để lộ phần ngực rắn chắc hoặc một chiếc áo ba lỗ lụa đen ôm sát cơ thể. Anh đi giày sneaker LV Trainer trắng tinh khôi, đeo đồng hồ LV Tambour và một chiếc nhẫn statement bạc. Biểu cảm lạnh lùng, không cười, ánh mắt sâu thẳm đầy bí ẩn và quyền lực, thể hiện sự tự tin tuyệt đối.\n\nNgười mẫu nữ (nhân vật được gợi ý từ ý tưởng ban đầu), dáng người quyến rũ, mặc một bộ swimsuit cut-out táo bạo, ôm sát cơ thể màu đen ánh kim hoặc màu đồng của Louis Vuitton, được phối cùng một chiếc áo khoác lưới (mesh) dài tay mỏng nhẹ, xuyên thấu hoặc áo kimono lụa dáng dài có họa tiết monogram, để lộ bờ vai và đường cong gợi cảm. Cô đi sandals cao gót quai mảnh ánh kim, tay cầm clutch Louis Vuitton Petite Malle. Tóc cô bồng bềnh như vừa bước lên từ mặt nước, vài lọn tóc ướt dính vào trán, gương mặt trang điểm mắt khói quyến rũ và đôi môi căng mọng màu nude. Biểu cảm tương tự nam: không cười, nhưng ánh mắt lấp lánh sự tinh nghịch, quyến rũ và thách thức.\n\nHai nhân vật đứng gần nhau, tạo dáng tương tác đầy kịch tính: nam tựa vào quầy bar, ánh mắt giao thoa với nữ. Nữ đặt một tay lên vai nam hoặc vuốt nhẹ tóc anh, một cử chỉ vui đùa tinh tế, đầy sức hút. Tư thế năng động, uyển chuyển, gợi cảm nhưng không hề phô trương, thể hiện sự hòa quyện giữa quyền lực và sự tự do.\n\nÁnh sáng chính là ánh sáng ngược (backlight) từ dải đèn LED neon màu xanh tím và đỏ hồng của quầy bar và sàn nhảy, tạo ra hiệu ứng ánh sáng ven (rim light) mạnh mẽ, làm nổi bật đường nét cơ thể và chất liệu trang phục xa xỉ. Ánh sáng Chiaroscuro trên gương mặt, tạo ra các vùng sáng tối tương phản sâu, tăng thêm vẻ bí ẩn và cuốn hút cho từng biểu cảm. Ánh đèn thành phố nhấp nháy làm hậu cảnh được làm mờ (bokeh) một cách nghệ thuật.\n\nGóc máy rộng (wide shot), chụp toàn cảnh hai người mẫu và bối cảnh sang trọng, nhấn mạnh không gian và sự tương tác giữa họ. Góc máy hơi thấp (slight low-angle shot) để tôn vinh vóc dáng siêu mẫu và tạo cảm giác quyền lực, thống trị. Bố cục sử dụng quy tắc một phần ba, đặt hai nhân vật chính vào vị trí tạo điểm nhấn mạnh mẽ.\n\nKhông khí tổng thể là xa hoa, thời thượng, đầy bí ẩn và quyến rũ. Cảm xúc truyền tải là sự tự tin tuyệt đối, táo bạo, một chút thách thức và sự vui đùa tinh tế, thể hiện tinh thần phóng khoáng và đẳng cấp của Playboy, đồng thời giữ vững sự sang trọng vượt thời gian của Louis Vuitton. Một buổi tối hè nóng bỏng, nơi mọi ánh nhìn đều đổ dồn vào sự xuất hiện đầy quyền lực của hai ngôi sao.",
+    "formData": {
+      "gender": "N/A",
+      "framing": "N/A",
+      "background": "N/A",
+      "swarpFace": true,
+      "theme": "Studio Nghệ Thuật: Playboy x Louis Vuitton",
+      "location": "N/A",
+      "action": "N/A",
+      "emotion": "N/A",
+      "style": "N/A",
+      "resolution": "4K",
+      "aspectRatio": "9:16"
+    }
   }
 ]
