@@ -1977,5 +1977,25 @@
       "resolution": "4K",
       "aspectRatio": "9:16"
     }
+  },
+  {
+    "timestamp": "2025-10-12T19:09:54.521Z",
+    "ipAddress": "171.234.15.203",
+    "imagePath": "logs/images/2025-10-12T19-09-50-197Z.png",
+    "promptPath": "logs/prompts/2025-10-12T19-09-50-197Z.md",
+    "generatedPrompt": "[Tạo ảnh nâng cao - Biến thể F:1/1 V:6/10] Chân dung của một chàng trai trẻ, sử dụng chính xác khuôn mặt và kiểu tóc từ ảnh tham chiếu. Anh ngồi trên cát, tựa khuỷu tay lên đầu gối, ánh mắt hướng về phía chân trời với vẻ trầm ngâm. Anh ấy mặc một bộ vest đen được cắt may hoàn hảo với áo sơ mi trắng tinh. Bối cảnh là một bãi biển yên bình vào buổi chiều hoàng hôn. Ánh sáng hoàng hôn ấm áp, vàng óng từ phía chân trời bao trùm khung cảnh. Những tia nắng cuối ngày chiếu xiên, tạo điểm nhấn rực rỡ lên nửa mặt và đường quai hàm của anh, trong khi nửa còn lại của khuôn mặt chìm dần vào bóng tối mềm mại và sâu lắng. Màu sắc rực rỡ của bầu trời hoàng hôn phản chiếu nhẹ nhàng trên khuôn mặt anh, tạo nên một bầu không khí lãng mạn, trầm tư và đầy suy ngẫm. Siêu chi tiết (Ultra-detailed), HDR, hạt phim mềm (soft film grain).",
+    "formData": {
+      "gender": "Nam",
+      "framing": "Chân dung",
+      "background": "Tập trung nhân vật",
+      "swarpFace": true,
+      "theme": "",
+      "location": "",
+      "action": "",
+      "emotion": "",
+      "style": "",
+      "resolution": "4K",
+      "aspectRatio": "9:16"
+    }
   }
 ]
