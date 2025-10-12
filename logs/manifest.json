@@ -2177,5 +2177,25 @@
       "resolution": "4K",
       "aspectRatio": "9:16"
     }
+  },
+  {
+    "timestamp": "2025-10-12T19:26:02.293Z",
+    "ipAddress": "171.234.15.203",
+    "imagePath": "logs/images/2025-10-12T19-25-58-296Z.png",
+    "promptPath": "logs/prompts/2025-10-12T19-25-58-296Z.md",
+    "generatedPrompt": "buổi tối trong bar club, trời nóng nên nhân vật nữ mặc bikini, người nam trong ảnh mặc đồ thể thao , đang vui đùa, chụp toàn cảnh, nhân vật chính k cười. ",
+    "formData": {
+      "gender": "N/A",
+      "framing": "N/A",
+      "background": "N/A",
+      "swarpFace": true,
+      "theme": "Studio Nghệ Thuật: Vogue x Gucci",
+      "location": "N/A",
+      "action": "N/A",
+      "emotion": "N/A",
+      "style": "N/A",
+      "resolution": "4K",
+      "aspectRatio": "9:16"
+    }
   }
 ]
