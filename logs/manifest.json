@@ -937,5 +937,25 @@
       "resolution": "4K",
       "aspectRatio": "9:16"
     }
+  },
+  {
+    "timestamp": "2025-10-12T06:35:16.462Z",
+    "ipAddress": "171.234.15.203",
+    "imagePath": "logs/images/2025-10-12T06-35-11-698Z.png",
+    "promptPath": "logs/prompts/2025-10-12T06-35-11-698Z.md",
+    "generatedPrompt": "PoolParty, hai người trong ảnh tải lên là trọng tâm.\nChủ đề màu tối.",
+    "formData": {
+      "gender": "N/A",
+      "framing": "N/A",
+      "background": "N/A",
+      "swarpFace": true,
+      "theme": "Studio Nghệ Thuật: L'Officiel x H&M Vietnam",
+      "location": "N/A",
+      "action": "N/A",
+      "emotion": "N/A",
+      "style": "N/A",
+      "resolution": "4K",
+      "aspectRatio": "9:16"
+    }
   }
 ]
