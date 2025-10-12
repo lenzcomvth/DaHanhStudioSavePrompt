@@ -897,5 +897,25 @@
       "resolution": "4K",
       "aspectRatio": "9:16"
     }
+  },
+  {
+    "timestamp": "2025-10-12T06:20:04.809Z",
+    "ipAddress": "171.234.15.203",
+    "imagePath": "logs/images/2025-10-12T06-20-00-841Z.png",
+    "promptPath": "logs/prompts/2025-10-12T06-20-00-841Z.md",
+    "generatedPrompt": "Chụp ảnh đôi couple , trang phục bikini , hồ bơi",
+    "formData": {
+      "gender": "N/A",
+      "framing": "N/A",
+      "background": "N/A",
+      "swarpFace": true,
+      "theme": "Studio Nghệ Thuật: Playboy x Balenciaga",
+      "location": "N/A",
+      "action": "N/A",
+      "emotion": "N/A",
+      "style": "N/A",
+      "resolution": "4K",
+      "aspectRatio": "9:16"
+    }
   }
 ]
