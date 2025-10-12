@@ -2257,5 +2257,25 @@
       "resolution": "4K",
       "aspectRatio": "9:16"
     }
+  },
+  {
+    "timestamp": "2025-10-12T19:28:38.048Z",
+    "ipAddress": "171.234.15.203",
+    "imagePath": "logs/images/2025-10-12T19-28-33-772Z.png",
+    "promptPath": "logs/prompts/2025-10-12T19-28-33-772Z.md",
+    "generatedPrompt": "buổi tối trong bar club, trời nóng nên nhân vật nữ mặc bikini, người nam trong ảnh mặc đồ thể thao , đang vui đùa, chụp toàn cảnh, nhân vật chính k cười. góc chụp xa ",
+    "formData": {
+      "gender": "N/A",
+      "framing": "N/A",
+      "background": "N/A",
+      "swarpFace": true,
+      "theme": "Ảnh nghệ thuật: L'Officiel x Balenciaga",
+      "location": "N/A",
+      "action": "N/A",
+      "emotion": "N/A",
+      "style": "N/A",
+      "resolution": "4K",
+      "aspectRatio": "9:16"
+    }
   }
 ]
