@@ -837,5 +837,25 @@
       "resolution": "4K",
       "aspectRatio": "9:16"
     }
+  },
+  {
+    "timestamp": "2025-10-12T04:36:23.617Z",
+    "ipAddress": "171.234.15.203",
+    "imagePath": "logs/images/2025-10-12T04-36-19-205Z.png",
+    "promptPath": "logs/prompts/2025-10-12T04-36-19-205Z.md",
+    "generatedPrompt": "Vào vai Adam và Eva, mặc bikiki đồ bơi, đang đứng hái táo. Sexy",
+    "formData": {
+      "gender": "N/A",
+      "framing": "N/A",
+      "background": "N/A",
+      "swarpFace": true,
+      "theme": "Studio Nghệ Thuật: Playboy x Gucci",
+      "location": "N/A",
+      "action": "N/A",
+      "emotion": "N/A",
+      "style": "N/A",
+      "resolution": "4K",
+      "aspectRatio": "9:16"
+    }
   }
 ]
