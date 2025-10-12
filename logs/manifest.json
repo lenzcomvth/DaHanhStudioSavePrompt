@@ -1117,5 +1117,25 @@
       "resolution": "4K",
       "aspectRatio": "9:16"
     }
+  },
+  {
+    "timestamp": "2025-10-12T09:29:05.945Z",
+    "ipAddress": "171.234.15.203",
+    "imagePath": "logs/images/2025-10-12T09-29-01-820Z.png",
+    "promptPath": "logs/prompts/2025-10-12T09-29-01-820Z.md",
+    "generatedPrompt": "A Action Packed Dramatic Seductive cinematic portrait of [PERSON IN THE IMAGE 1, don't alter the face ] wearing the same outfit with a calm seductive and determined expression holding a billiard stick in striking position, and [PERSON IN THE IMAGE 2, don't alter the face ] wearing same outfit, in a setting the billiard balls position while gazing at the camera. standing close  together in the same pose and expression. Use warm, moody, low-key lighting similar to a studio photoshoot, with strong shadows and a golden glow highlighting their faces and clothes. In a modern pinoy billiard hall background with soft gradients, high contrast, professional cinematic look. On the 3rd image copy the vivamax logo and put on the upper left corner, in the center of the picture is the title POOL LEGENDS, PLAY THE GAME \nDirectly below the main title, the words \"COMING SOON\" are placed in an attention-grabbing, vibrant red or white text. At the bottom of the poster, the names are listed in a smaller but legible font, styled like movie credits: Positioned near the bottom, stylized like a film credit, is the line: Starring: Kelvin.K and Christy.L underneath of it is A Film By: K.K.K",
+    "formData": {
+      "gender": "N/A",
+      "framing": "N/A",
+      "background": "N/A",
+      "swarpFace": true,
+      "theme": "Studio Nghệ Thuật: Vogue x Gucci",
+      "location": "N/A",
+      "action": "N/A",
+      "emotion": "N/A",
+      "style": "N/A",
+      "resolution": "4K",
+      "aspectRatio": "9:16"
+    }
   }
 ]
