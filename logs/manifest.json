@@ -1797,5 +1797,25 @@
       "resolution": "4K",
       "aspectRatio": "9:16"
     }
+  },
+  {
+    "timestamp": "2025-10-12T19:02:25.995Z",
+    "ipAddress": "171.234.15.203",
+    "imagePath": "logs/images/2025-10-12T19-02-20-935Z.png",
+    "promptPath": "logs/prompts/2025-10-12T19-02-20-935Z.md",
+    "generatedPrompt": "A mysterious and elegant portrait with dramatic shadows, focusing on texture and mood.Edit the photo into a relaxed standing pose inside a modern elevator with reflective metal walls. The person is wearing an all-black outfit: an oversized blazer and long pants. Holding a take-away coffee cup. The style is elegant and edgy with a mysterious vibe. Dim lighting from neon ceiling lights creates subtle shadows.",
+    "formData": {
+      "gender": "N/A",
+      "framing": "N/A",
+      "background": "N/A",
+      "swarpFace": true,
+      "theme": "Ảnh nghệ thuật: Vogue x Gucci",
+      "location": "N/A",
+      "action": "N/A",
+      "emotion": "N/A",
+      "style": "N/A",
+      "resolution": "4K",
+      "aspectRatio": "9:16"
+    }
   }
 ]
