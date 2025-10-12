@@ -1157,5 +1157,25 @@
       "resolution": "4K",
       "aspectRatio": "9:16"
     }
+  },
+  {
+    "timestamp": "2025-10-12T10:17:00.934Z",
+    "ipAddress": "171.234.15.203",
+    "imagePath": "logs/images/2025-10-12T10-16-56-784Z.png",
+    "promptPath": "logs/prompts/2025-10-12T10-16-56-784Z.md",
+    "generatedPrompt": "An action-packed, dramatic, and seductive cinematic poster featuring two main characters.\n[Person in Image 1] — keep the exact face, do not alter it — wearing a professional billiard player outfit (sporty polo shirt, dark trousers, billiard gloves, confident posture), holding a cue stick in a striking position with a calm, determined, and seductive expression.\n[Person in Image 2] — keep the exact face, do not alter it — wearing the same outfit from the uploaded photo, arranging billiard balls on the table while gazing directly at the camera with a confident, alluring look.\nThey stand close together in balanced cinematic composition, exuding tension and chemistry.\n\nSet in a modern Pinoy billiard hall, with soft smoke haze, reflections on a glossy pool table, warm moody low-key lighting, golden rim light highlighting their faces and bodies, strong shadows, and cinematic contrast.\n\nPoster layout:\n– Vivamax logo on the upper-left corner.\n– Center title:\nPOOL LEGENDS\nPLAY THE GAME\nMetallic cinematic font (Trajan Pro, Cinzel, or Bebas Neue), bold, powerful, golden or silver glow.\n– Below the title: “COMING SOON” in vibrant red or white text.\n– Bottom credits:\nStarring: Hung Chua and Eimi Fukada\n\nA Film By: LENZCOM \n\nWarm golden tones, cinematic depth of field, floating dust particles, smoke light beams, 8K ultra-realistic professional studio poster look, vertical 9:16 ratio.\n(deformed, lowres, bad hands, extra limbs, distorted face, watermark, text artifacts, blurry, oversaturated, cropped)",
+    "formData": {
+      "gender": "N/A",
+      "framing": "N/A",
+      "background": "N/A",
+      "swarpFace": true,
+      "theme": "Studio Nghệ Thuật: Vanity Fair x Gucci",
+      "location": "N/A",
+      "action": "N/A",
+      "emotion": "N/A",
+      "style": "N/A",
+      "resolution": "4K",
+      "aspectRatio": "9:16"
+    }
   }
 ]
