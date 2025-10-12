@@ -1297,5 +1297,25 @@
       "resolution": "4K",
       "aspectRatio": "9:16"
     }
+  },
+  {
+    "timestamp": "2025-10-12T18:51:39.223Z",
+    "ipAddress": "171.234.15.203",
+    "imagePath": "logs/images/2025-10-12T18-51-33-500Z.png",
+    "promptPath": "logs/prompts/2025-10-12T18-51-33-500Z.md",
+    "generatedPrompt": "[Tạo ảnh nâng cao - Bắt đầu] The main lighting comes from a soft warm source positioned to the front-left, creating a delicate sheen on the models’ skin, emphasizing cheek and lip highlights.\n\nShadows from the curtains and dark red walls create a sense of depth and seclusion — as if the couple were lost in their own private world.\n\nOverall, the mood is fiery, romantic, and mysterious, reminiscent of a cinematic night encounter.\n\n---\n\n Female Model\n\nUse the original female face exactly as in the reference photo (no facial modification).\n\nBody: slender, curvy, fair skin, full bust, defined waist, and rounded hips\n\nLips: glossy bright red\n\nHair: long, straight with bangs and soft stray strands framing her cheeks\n\nOutfit: wear exactly the outfit from Image 2, emphasizing body curves (especially the hips)\n\nMakeup: Douyin Girl style — dewy skin, soft natural glow, subtle yet alluring eyeshadow\n\nPose:\n\nPositioned on the right side of the frame, the woman leans back against the wall with both arms raised above her head, hands pressed firmly against the surface. Her gaze turns directly toward the camera, exuding confidence and seduction.\n\n---\n\nMale Model\n\nUse the original male face from the reference photo 100% unchanged.\n\nBody: slightly chubby, warm and solid build\n\nOutfit: jeans only, shirtless\n\nPose:\n\nPlaced on the left side, his torso and hips pressed closely against the woman’s body.\n\nHe wraps his arms around her neck, pulling her nearer in a passionate, possessive embrace.\n\nTheir faces are pressed side by side, eyes locked onto the camera — a perfect balance of warmth, intensity, and emotional closeness.\n\nEmotion:\n\nExpresses deep affection, sensual tension, and romantic intimacy — a moment charged with both comfort and desire.\n\n---\n\n🎞 Color Tone & Lighting Mood\n\nThe image adopts a Deep Red & Black palette to embody luxury, passion, and mystery.\n\nCrimson / Velvet Red: fills the background, amplifying emotion and romantic tension\n\nJet Black / Charcoal: adds strength, contrast, and elegance\n\nWarm Amber Light: from the left and above, softens the scene with a gentle golden hue\n\nLip & Eye Highlights: emphasize allure and expressiveness\n\nSoft Shadows: enhance depth and a sense of secrecy — like a private, unseen corner of desire\n\nOverall color grading follows a “Romantic Seduction” theme — refined, mysterious, and emotionally magnetic.\n\n---\n\nCamera Angle & Composition\n\nAngle: close-up, slightly tilted (Tilted Close-Up / Half-Body Angle)\n\nFocus: the woman’s face as the primary focal point\n\nDutch Tilt: slight leftward tilt to enhance emotional tension and visual dynamism\n\nShort Focal Length: shallow depth of field for a cinematic bokeh effect\n\nLighting: diagonal from top-left to create subtle shadow beneath the man’s jawline and body contours\n\nFraming: tight, intimate composition — conveying the feeling of “no distance left between them.”\n\n---\n\nFinal Mood:\nAn Ultra-Photorealistic 8K HDR portrayal of romantic intensity — luxurious, private, and emotionally charged; every glance, shadow, and touch tells a story of desire and connection.",
+    "formData": {
+      "gender": "Nam",
+      "framing": "Chân dung",
+      "background": "Tập trung nhân vật",
+      "swarpFace": true,
+      "theme": "",
+      "location": "",
+      "action": "",
+      "emotion": "",
+      "style": "",
+      "resolution": "4K",
+      "aspectRatio": "9:16"
+    }
   }
 ]
