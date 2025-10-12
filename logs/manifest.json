@@ -917,5 +917,25 @@
       "resolution": "4K",
       "aspectRatio": "9:16"
     }
+  },
+  {
+    "timestamp": "2025-10-12T06:28:38.875Z",
+    "ipAddress": "171.234.15.203",
+    "imagePath": "logs/images/2025-10-12T06-28-34-313Z.png",
+    "promptPath": "logs/prompts/2025-10-12T06-28-34-313Z.md",
+    "generatedPrompt": "Ảnh chụp toàn cảnh\nDàn người mẫu của thiên thần Victoria's đang party , nhân vật chính là hai người trong ảnh tải lên\nTrang phục bikini",
+    "formData": {
+      "gender": "N/A",
+      "framing": "N/A",
+      "background": "N/A",
+      "swarpFace": true,
+      "theme": "Studio Nghệ Thuật: Playboy x Zara Vietnam",
+      "location": "N/A",
+      "action": "N/A",
+      "emotion": "N/A",
+      "style": "N/A",
+      "resolution": "4K",
+      "aspectRatio": "9:16"
+    }
   }
 ]
