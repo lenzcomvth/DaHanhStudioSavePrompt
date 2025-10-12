@@ -1677,5 +1677,25 @@
       "resolution": "4K",
       "aspectRatio": "9:16"
     }
+  },
+  {
+    "timestamp": "2025-10-12T18:58:09.610Z",
+    "ipAddress": "171.234.15.203",
+    "imagePath": "logs/images/2025-10-12T18-58-05-479Z.png",
+    "promptPath": "logs/prompts/2025-10-12T18-58-05-479Z.md",
+    "generatedPrompt": "[Tạo ảnh nâng cao - Biến thể F:2/2 V:5/10] The face retains all relevant details. A dark brown leather sofa in a sleek, dimly lit room with black walls and a chandelier overhead. He’s wearing a custom-made black suit with an open white shirt, walking away from the camera and looking back over his shoulder with a knowing smirk. His black leather shoes are visible and polished. Behind him is a framed painting of a mob boss figure with a skull face, in black and white. Over-the-shoulder shot, capturing his glance.",
+    "formData": {
+      "gender": "Nam",
+      "framing": "Chân dung",
+      "background": "Tập trung nhân vật",
+      "swarpFace": true,
+      "theme": "",
+      "location": "",
+      "action": "",
+      "emotion": "",
+      "style": "",
+      "resolution": "4K",
+      "aspectRatio": "9:16"
+    }
   }
 ]
