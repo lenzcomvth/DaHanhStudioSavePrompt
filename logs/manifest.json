@@ -1197,5 +1197,25 @@
       "resolution": "4K",
       "aspectRatio": "9:16"
     }
+  },
+  {
+    "timestamp": "2025-10-12T10:44:54.661Z",
+    "ipAddress": "171.234.15.203",
+    "imagePath": "logs/images/2025-10-12T10-44-51-008Z.png",
+    "promptPath": "logs/prompts/2025-10-12T10-44-51-008Z.md",
+    "generatedPrompt": "A mysterious and elegant portrait with dramatic shadows, focusing on texture and mood.",
+    "formData": {
+      "gender": "N/A",
+      "framing": "N/A",
+      "background": "N/A",
+      "swarpFace": true,
+      "theme": "Ảnh nghệ thuật: W Magazine x Agent Provocateur",
+      "location": "N/A",
+      "action": "N/A",
+      "emotion": "N/A",
+      "style": "N/A",
+      "resolution": "4K",
+      "aspectRatio": "9:16"
+    }
   }
 ]
