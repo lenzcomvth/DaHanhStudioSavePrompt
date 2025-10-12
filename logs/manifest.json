@@ -857,5 +857,25 @@
       "resolution": "4K",
       "aspectRatio": "9:16"
     }
+  },
+  {
+    "timestamp": "2025-10-12T04:53:44.921Z",
+    "ipAddress": "171.234.15.203",
+    "imagePath": "logs/images/2025-10-12T04-53-39-959Z.png",
+    "promptPath": "logs/prompts/2025-10-12T04-53-39-959Z.md",
+    "generatedPrompt": "Adam Eva mặc đồ bikini đang thân mật dưới gốc cây táo\n",
+    "formData": {
+      "gender": "N/A",
+      "framing": "N/A",
+      "background": "N/A",
+      "swarpFace": true,
+      "theme": "Studio Nghệ Thuật: Playboy x Zara Vietnam",
+      "location": "N/A",
+      "action": "N/A",
+      "emotion": "N/A",
+      "style": "N/A",
+      "resolution": "4K",
+      "aspectRatio": "9:16"
+    }
   }
 ]
