@@ -2077,5 +2077,25 @@
       "resolution": "4K",
       "aspectRatio": "9:16"
     }
+  },
+  {
+    "timestamp": "2025-10-12T19:10:59.315Z",
+    "ipAddress": "171.234.15.203",
+    "imagePath": "logs/images/2025-10-12T19-10-55-074Z.png",
+    "promptPath": "logs/prompts/2025-10-12T19-10-55-074Z.md",
+    "generatedPrompt": "A mysterious and elegant portrait with dramatic shadows, focusing on texture and mood.",
+    "formData": {
+      "gender": "N/A",
+      "framing": "N/A",
+      "background": "N/A",
+      "swarpFace": true,
+      "theme": "Ảnh nghệ thuật: L'Officiel x Balenciaga",
+      "location": "N/A",
+      "action": "N/A",
+      "emotion": "N/A",
+      "style": "N/A",
+      "resolution": "4K",
+      "aspectRatio": "9:16"
+    }
   }
 ]
