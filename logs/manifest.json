@@ -1017,5 +1017,25 @@
       "resolution": "4K",
       "aspectRatio": "9:16"
     }
+  },
+  {
+    "timestamp": "2025-10-12T08:39:39.155Z",
+    "ipAddress": "171.234.15.203",
+    "imagePath": "logs/images/2025-10-12T08-39-34-376Z.png",
+    "promptPath": "logs/prompts/2025-10-12T08-39-34-376Z.md",
+    "generatedPrompt": "Sewxy",
+    "formData": {
+      "gender": "N/A",
+      "framing": "N/A",
+      "background": "N/A",
+      "swarpFace": true,
+      "theme": "Studio Nghệ Thuật: Vogue x Gucci",
+      "location": "N/A",
+      "action": "N/A",
+      "emotion": "N/A",
+      "style": "N/A",
+      "resolution": "4K",
+      "aspectRatio": "9:16"
+    }
   }
 ]
