@@ -2437,5 +2437,25 @@
       "resolution": "4K",
       "aspectRatio": "9:16"
     }
+  },
+  {
+    "timestamp": "2025-10-13T04:20:04.686Z",
+    "ipAddress": "171.234.15.203",
+    "imagePath": "logs/images/2025-10-13T04-19-59-239Z.png",
+    "promptPath": "logs/prompts/2025-10-13T04-19-59-239Z.md",
+    "generatedPrompt": "Một buổi chụp ảnh thời trang cao cấp của Gucci cho tạp chí Playboy. Bối cảnh là hồ bơi vô cực trong nhà (indoor infinity pool) của một biệt thự cổ điển Art Deco, nằm ẩn mình trên đỉnh đồi Monte Carlo, với cửa sổ kính lớn nhìn ra biển Địa Trung Hải lúc hoàng hôn. Trần nhà cao, các cột đá cẩm thạch đen và vàng, sàn lát gạch mosaic tối màu phản chiếu ánh sáng tạo không khí sang trọng, trầm lắng. Người mẫu nam trẻ, tóc ngắn nâu đen chải gọn gàng, mặc quần bơi ngắn (swim shorts) họa tiết GG monogram chìm của Gucci màu xanh navy đậm, khoác hờ chiếc khăn lụa Gucci họa tiết Baroque qua vai, đi chân trần. Anh đứng tựa vào một cột đá cẩm thạch, ánh mắt trầm tư nhìn ra biển, biểu cảm điềm tĩnh, nam tính. Người mẫu nữ trẻ, tóc dài xoăn nhẹ màu nâu sẫm, hơi ướt, xõa tung tự nhiên, mặc áo tắm liền thân (one-piece swimsuit) Gucci màu xanh ngọc bích đậm, cắt xẻ táo bạo, chất liệu vải dệt kim cao cấp có độ bóng nhẹ, đeo bông tai oversized vàng Gucci và nhẫn cocktail. Cô ngồi hờ hững ở mép hồ, lưng hơi quay về phía nam, một chân duỗi thẳng, chân kia hơi gập, ánh mắt lướt qua vai về phía người nam, tạo một khoảnh khắc giao thoa ánh mắt đầy ẩn ý và cuốn hút. Biểu cảm của cả hai đều quyến rũ, tự tin, một chút bất cần và bí ẩn. Ánh sáng điện ảnh kịch tính theo phong cách Chiaroscuro, nguồn sáng chính đến từ phía bên trái tạo bóng đổ sâu và sắc nét. Ánh sáng vàng ấm từ hoàng hôn hắt qua cửa sổ hòa quyện với ánh sáng xanh lạnh phản chiếu từ mặt nước hồ bơi, tạo độ tương phản màu sắc ấn tượng. Một chút ánh sáng viền (rim light) tinh tế màu vàng đồng chạy dọc theo đường cong cơ thể, tách biệt người mẫu khỏi hậu cảnh. Góc máy thấp (low-angle shot) nhìn lên, bố cục quy tắc 1/3 (Rule of Thirds), medium full shot, làm nổi bật dáng vóc quyền lực và sự hùng vĩ của kiến trúc. Khoảng trống âm của mặt nước hồ bơi và trần nhà cao tạo cảm giác rộng lớn, thanh lịch. Tổng thể bức ảnh truyền tải không khí sang trọng, bí ẩn, lãng mạn, đầy quyền lực và gợi cảm tinh tế, hiện đại pha lẫn hoài cổ.",
+    "formData": {
+      "gender": "N/A",
+      "framing": "N/A",
+      "background": "N/A",
+      "swarpFace": true,
+      "theme": "Studio Nghệ Thuật: Playboy x Gucci",
+      "location": "N/A",
+      "action": "N/A",
+      "emotion": "N/A",
+      "style": "N/A",
+      "resolution": "4K",
+      "aspectRatio": "9:16"
+    }
   }
 ]
