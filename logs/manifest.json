@@ -2457,5 +2457,25 @@
       "resolution": "4K",
       "aspectRatio": "9:16"
     }
+  },
+  {
+    "timestamp": "2025-10-13T15:29:33.869Z",
+    "ipAddress": "171.234.15.203",
+    "imagePath": "logs/images/2025-10-13T15-29-28-505Z.png",
+    "promptPath": "logs/prompts/2025-10-13T15-29-28-505Z.md",
+    "generatedPrompt": "[Tạo ảnh nâng cao - Bắt đầu] Ultra-photorealistic cinematic fashion photography, 8K resolution, 4:3 aspect ratio, styled as a Vogue magazine international cover.\nElegant, luxurious, and editorial — showcasing global beauty diversity through refined poses, natural lighting, and couture aesthetics.\n\n👤 Main Male Subject:\n\nUse the uploaded man’s original face exactly as is (no alterations) — maintain 100% identity, hairstyle, and natural expression.\nHe is seated comfortably on a luxurious light-purple velvet sofa, leaning slightly back with his left leg crossed over his right in a relaxed, confident posture.\nHe holds a glass of champagne in his left hand, its surface catching subtle reflections from studio lighting.\nHis right hand rests gently on the knee of the woman resembling Megan Fox, creating an elegant, intimate connection that feels cinematic yet sophisticated.\n\n👠 Female Models Around Him:\n\nAll are supermodels from different countries, embodying global beauty and high-fashion allure:\n\n🇻🇳 Vietnamese model with a face 99% identical to Phí Huyền Trang — radiant, elegant, and sensual in her expression.\n\n🇯🇵 Japanese model with a face 99% identical to Eimi Fukada — petite, graceful, subtly alluring, exuding soft feminine charm.\n\n🇺🇸 American model with a face 99% identical to Megan Fox — striking eyes, confident pose, glamorous and magnetic.\n\nAdditional international models (Filipino, Thai, Korean, etc.) add diversity and balance — all wearing stylish string bikinis of different colors and unique designs (gold, coral pink, turquoise, lavender, white).\n\nThey are positioned close to the man, elegantly posed, bodies and gazes oriented subtly toward him — evoking intimacy, confidence, and unity under a high-fashion composition.\n\n💡 Scene & Lighting Setup:\n\nStudio environment: modern, minimalist, with a soft pastel gradient background (white–lavender hue).\n\nLighting: dual-source setup — soft frontal light for smooth skin tones, subtle rim light from behind for depth and contour.\n\nFloor: glossy and reflective, enhancing elegance.\n\nVOGUE logo placed prominently on the top center in elegant serif typography.\n\nAdd subtle studio shadows, light flares, and realistic reflections for a cinematic editorial effect.\n\n✨ Overall Mood & Styling:\n\nTone: luxury, cosmopolitan, confident, artistic.\n\nColor palette: soft pastel neutrals (lavender, beige, champagne gold).\n\nComposition: balanced and centered, like a real magazine cover photo.\n\nLighting is perfectly diffused, highlighting every detail — skin, texture, and fabric richness.\n\nThe atmosphere radiates international elegance and high-end fashion prestige.\n\n🔑 Recommended Keywords (for better image generation):\n\nultra-photorealistic, cinematic lighting, 8K resolution, 4:3 aspect ratio, Vogue magazine cover, international models, Filipino, Vietnamese, Japanese, American, Phí Huyền Trang lookalike, Eimi Fukada lookalike, Megan Fox lookalike, luxury editorial, champagne glass, purple velvet sofa, elegant posture, glossy floor, soft pastel lighting, fashion photography, high-end magazine typography, global beauty, cinematic composition.",
+    "formData": {
+      "gender": "Nam",
+      "framing": "Chân dung",
+      "background": "Tập trung nhân vật",
+      "swarpFace": true,
+      "theme": "",
+      "location": "",
+      "action": "",
+      "emotion": "",
+      "style": "",
+      "resolution": "4K",
+      "aspectRatio": "9:16"
+    }
   }
 ]
