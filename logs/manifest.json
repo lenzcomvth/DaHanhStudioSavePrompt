@@ -3277,5 +3277,25 @@
       "resolution": "4K",
       "aspectRatio": "9:16"
     }
+  },
+  {
+    "timestamp": "2025-10-14T14:56:04.783Z",
+    "ipAddress": "58.187.21.153",
+    "imagePath": "logs/images/2025-10-14T14-56-00-113Z.png",
+    "promptPath": "logs/prompts/2025-10-14T14-56-00-113Z.md",
+    "generatedPrompt": "Một góc tĩnh lặng đầy hoài niệm bên trong ngôi nhà gỗ truyền thống Việt Nam, với những cột kèo cổ kính màu nâu sẫm được chạm khắc tinh xảo và sàn nhà gỗ bóng loáng phản chiếu ánh sáng. Một khung cửa sổ lớn bằng gỗ lim hoặc gỗ gụ, với hoa văn chạm trổ cầu kỳ, đang hé mở một cách duyên dáng, để lộ mảng vườn nhiệt đới xanh mướt rậm rạp phía ngoài, với những tán lá cây cổ thụ vươn cao và hoa cỏ dại khoe sắc. Bầu không khí ấm cúng, đậm chất thiền định, nơi những hạt bụi li ti lấp lánh như bụi vàng trong không khí, phản chiếu ánh sáng huyền ảo. Diễn viên #1, người phụ nữ lớn tuổi với vẻ đẹp thanh lịch vượt thời gian, mặc một chiếc áo dài lụa hoặc linen cao cấp, màu xanh ngọc bích nhạt hoặc kem ngà, với đường cắt may tinh tế, tôn lên dáng người mảnh mai nhưng không phô trương. Mái tóc búi cao gọn gàng, màu đen pha bạc óng ánh, cài một chiếc trâm bạc đơn giản, cổ điển. Bà ngồi thanh thản trên một chiếc ghế gỗ chạm hoặc ghế mây mộc mạc, đặt ngay cạnh khung cửa sổ đang hé mở. Lưng bà thẳng nhưng tư thế hoàn toàn thư thái, đầu bà khẽ nghiêng về phía ánh sáng. Một tay bà nhẹ nhàng đặt trên lòng, tay kia khẽ nâng lên ngang tầm ngực hoặc mặt, các ngón tay khẽ hé mở như đang cảm nhận sự ấm áp, vuốt ve của tia nắng sớm hoặc chiều tà. Khuôn mặt bà nghiêng nhẹ về phía nguồn sáng, đôi mắt nhắm hờ hoặc nhìn xa xăm với vẻ thanh thản, mãn nguyện tuyệt đối, một nụ cười ẩn hiện rất nhẹ trên khóe môi, toát lên sự bình yên nội tại. Ánh sáng vàng mật ong của buổi sớm mai hoặc hoàng hôn đổ tràn qua khung cửa, tạo thành những dải sáng huyền ảo, dày đặc (volumetric light/God rays) xuyên qua không khí mang theo hàng ngàn hạt bụi lấp lánh, tạo cảm giác kỳ ảo như trong cổ tích. Ánh sáng rực rỡ chiếu rọi khuôn mặt và mái tóc búi bạc của bà, tạo hiệu ứng viền sáng (rim light) mềm mại, vàng óng, làm nổi bật đường nét thanh tú và vẻ đẹp lão hóa đầy trân quý. Không gian xung quanh chìm trong bóng đổ dịu nhẹ, tạo sự tương phản tinh tế với vùng sáng, mang đến cảm giác ấm áp, linh thiêng và đầy hy vọng. Ánh sáng không chỉ rực rỡ hơn mà còn mang vẻ đẹp lay động, như một món quà từ thiên nhiên. Góc máy trung cảnh (medium shot) hoặc trung cận (medium close-up), hơi thấp một chút (slight low angle), tập trung hoàn toàn vào người phụ nữ và dải sáng kỳ diệu. Bố cục tuân thủ quy tắc một phần ba, đặt bà hơi lệch tâm về một bên (trái hoặc phải) để tạo điểm nhấn cho dải sáng chiếu vào và không gian xung quanh. Độ sâu trường ảnh nông (shallow depth of field), làm mờ hậu cảnh vườn cây xanh mướt và các chi tiết bên trong ngôi nhà, hướng sự chú ý tuyệt đối vào khoảnh khắc giao thoa đầy cảm xúc giữa ánh sáng và con người.",
+    "formData": {
+      "gender": "N/A",
+      "framing": "N/A",
+      "background": "N/A",
+      "swarpFace": true,
+      "theme": "Ghép ảnh nhóm",
+      "location": "N/A",
+      "action": "N/A",
+      "emotion": "N/A",
+      "style": "N/A",
+      "resolution": "4K",
+      "aspectRatio": "9:16"
+    }
   }
 ]
