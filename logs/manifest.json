@@ -3457,5 +3457,25 @@
       "resolution": "4K",
       "aspectRatio": "9:16"
     }
+  },
+  {
+    "timestamp": "2025-10-14T15:37:02.170Z",
+    "ipAddress": "171.234.15.203",
+    "imagePath": "logs/images/2025-10-14T15-36-58-176Z.png",
+    "promptPath": "logs/prompts/2025-10-14T15-36-58-176Z.md",
+    "generatedPrompt": "[Tạo ảnh nâng cao - Biến thể F:1/1 V:3/10] Ultra-photorealistic cinematic over-the-shoulder shot, 8K resolution, HDR lighting, shallow depth of field, Sony 35mm lens, photo-realistic skin texture, dynamic bokeh. Scene Description: A dramatic over-the-shoulder shot from behind the man of a modern Asian man and a beautiful woman riding together on a powerful Kawasaki Rider Protection motorcycle, captured at high speed through a neon-lit city street at night. The background glows with streaks of magenta, cyan, and gold lights \n— blurred by motion to emphasize speed and energy. Male Rider: The man’s face is exactly the same as the uploaded reference photo (100% face match), realistic skin tone and expression, his intense confident profile facing forward. He wears a fitted black leather jacket, visible reflection of neon lights on his cheek and helmet visor, exuding a bold and cinematic aura. Female Passenger: The woman sits closely behind him, one arm around his waist, leaning slightly forward, her long hair flowing dynamically in the wind. Her gaze is confidently directed over his shoulder towards the camera \n— eyes confident, lips slightly parted, showing strength and allure. She wears a sleek modern outfit (black leather crop jacket and tight pants) that enhances her figure under the shimmering city light. Atmosphere & Composition: The camera captures a compelling over-the-shoulder two-shot \n— focusing on the woman's expression and the man's profile, with the blurred neon city lights and reflections forming a glowing cinematic background. The lighting creates contrast between cool blue tones and warm highlights across their faces, emphasizing realism and emotion. The scene radiates intensity, motion, and chemistry \n— like a poster frame from an action-romance blockbuster. Technical details: Realistic skin pores, true reflections, natural highlights on faces, motion blur only on background. Sony G-Master 35mm lens, cinematic HDR color grading, ultra-sharp facial details. (deformed, bad anatomy, distorted proportions, lowres, watermark, extra limbs, blurry, doll face, bad eyes, oversharpen)",
+    "formData": {
+      "gender": "Nam",
+      "framing": "Chân dung",
+      "background": "Tập trung nhân vật",
+      "swarpFace": true,
+      "theme": "",
+      "location": "",
+      "action": "",
+      "emotion": "",
+      "style": "",
+      "resolution": "4K",
+      "aspectRatio": "9:16"
+    }
   }
 ]
