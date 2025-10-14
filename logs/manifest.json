@@ -3117,5 +3117,25 @@
       "resolution": "4K",
       "aspectRatio": "9:16"
     }
+  },
+  {
+    "timestamp": "2025-10-14T14:45:52.507Z",
+    "ipAddress": "171.234.15.203",
+    "imagePath": "logs/images/2025-10-14T14-45-48-651Z.png",
+    "promptPath": "logs/prompts/2025-10-14T14-45-48-651Z.md",
+    "generatedPrompt": "[Tạo ảnh nâng cao - Biến thể F:1/1 V:3/10] A humorous portrait scene with a frightened man sitting on a brown leather chair and a playful woman standing behind him making claw gestures, viewed over-the-shoulder from behind the woman, focusing on the man's perspective. Keep the same lighting, outfit, composition, and expression from the reference image. Replace the seated man’s face with the face from the portrait reference, matching skin tone, lighting, and realism. Maintain cinematic lighting, shallow depth of field, and photo-realistic style. (deformed face, bad anatomy, unnatural skin, extra limbs, lowres, watermark, blurry, artifacts, mutated hands, bad eyes, distorted proportions, overexposed, underexposed)",
+    "formData": {
+      "gender": "Nam",
+      "framing": "Chân dung",
+      "background": "Tập trung nhân vật",
+      "swarpFace": true,
+      "theme": "",
+      "location": "",
+      "action": "",
+      "emotion": "",
+      "style": "",
+      "resolution": "4K",
+      "aspectRatio": "9:16"
+    }
   }
 ]
