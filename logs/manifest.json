@@ -2917,5 +2917,25 @@
       "resolution": "4K",
       "aspectRatio": "9:16"
     }
+  },
+  {
+    "timestamp": "2025-10-14T12:48:35.404Z",
+    "ipAddress": "58.187.21.153",
+    "imagePath": "logs/images/2025-10-14T12-48-31-387Z.png",
+    "promptPath": "logs/prompts/2025-10-14T12-48-31-387Z.md",
+    "generatedPrompt": "[Tạo ảnh nâng cao - Biến thể F:1/1 V:8/10] tạo ra 1 tấm ảnh cưới trong studio, họ ngồi tựa vào nhau lãng mạn, góc chụp nghiêng độc đáo",
+    "formData": {
+      "gender": "Nam",
+      "framing": "Chân dung",
+      "background": "Tập trung nhân vật",
+      "swarpFace": true,
+      "theme": "",
+      "location": "",
+      "action": "",
+      "emotion": "",
+      "style": "",
+      "resolution": "4K",
+      "aspectRatio": "9:16"
+    }
   }
 ]
