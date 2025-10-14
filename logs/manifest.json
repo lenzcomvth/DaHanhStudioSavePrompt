@@ -2597,5 +2597,25 @@
       "resolution": "4K",
       "aspectRatio": "9:16"
     }
+  },
+  {
+    "timestamp": "2025-10-14T12:36:47.952Z",
+    "ipAddress": "58.187.21.153",
+    "imagePath": "logs/images/2025-10-14T12-36-43-239Z.png",
+    "promptPath": "logs/prompts/2025-10-14T12-36-43-239Z.md",
+    "generatedPrompt": "[Tạo ảnh nâng cao - Biến thể F:1/1 V:3/10] tạo ra album ảnh cưới, chụp nửa thân, chú rể bế cô dâu, góc ngang tầm mắt",
+    "formData": {
+      "gender": "Nam",
+      "framing": "Chân dung",
+      "background": "Tập trung nhân vật",
+      "swarpFace": true,
+      "theme": "",
+      "location": "",
+      "action": "",
+      "emotion": "",
+      "style": "",
+      "resolution": "4K",
+      "aspectRatio": "9:16"
+    }
   }
 ]
