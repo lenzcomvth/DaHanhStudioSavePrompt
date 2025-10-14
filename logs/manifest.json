@@ -2497,5 +2497,25 @@
       "resolution": "4K",
       "aspectRatio": "9:16"
     }
+  },
+  {
+    "timestamp": "2025-10-14T12:01:06.720Z",
+    "ipAddress": "58.187.21.153",
+    "imagePath": "logs/images/2025-10-14T12-01-01-628Z.png",
+    "promptPath": "logs/prompts/2025-10-14T12-01-01-628Z.md",
+    "generatedPrompt": "Bối cảnh: Một studio cưới cao cấp, tinh tế với phông nền studio trơn màu kem nhạt hoặc xám bạc liền mạch, tạo không gian mở, rộng rãi và trang nhã. Background tối giản nhưng có chiều sâu, với một dải lụa voan trắng ngà mỏng manh, mềm mại lượn sóng nhẹ nhàng phía sau, hoặc một cụm hoa baby's breath (hoa chấm bi) nhỏ nhắn, tạo hiệu ứng bokeh mơ màng, tinh tế.\n\nTrang phục:\nDiễn viên #1 (Cô dâu): Nữ, thanh niên, mặc một chiếc váy cưới trắng ngà, dáng A-line thanh lịch hoặc ôm nhẹ khoe đường cong (fit-and-flare), được làm từ satin lụa mềm mại hoặc ren Chantilly thêu hoa tinh xảo. Thiết kế cổ thuyền trang nhã hoặc cổ chữ V khoét sâu vừa phải, tay áo dài hoặc lỡ được điểm xuyết ren hoa mềm mại. Tóc nâu được búi cao sang trọng, gọn gàng, với những lọn tóc mái bay nhẹ nhàng ôm lấy gương mặt thanh tú, toát lên vẻ đẹp cổ điển pha lẫn hiện đại, thanh tao. Đeo bông tai ngọc trai nhỏ nhắn. Cầm bó hoa cưới tinh tế gồm hoa hồng trắng, cẩm tú cầu và lá khuynh diệp, được buộc bằng ruy băng lụa trắng.\n\nDiễn viên #2 (Chú rể): Nam, thanh niên, mặc một bộ suit may đo cao cấp màu xám than lịch lãm hoặc xanh navy đậm, vừa vặn hoàn hảo, tôn dáng. Áo sơ mi trắng tinh khôi, cà vạt lụa trơn màu xanh pastel dịu nhẹ hoặc xám bạc sang trọng. Tóc đen ngắn được chải chuốt gọn gàng, mang phong thái trưởng thành và nam tính. Cài một boutonnière nhỏ xinh ton-sur-ton với bó hoa của cô dâu trên ve áo.\n\nHành động & Tương tác: Chú rể đứng phía sau cô dâu, nhẹ nhàng vòng tay ôm lấy vòng eo thon gọn của cô, đầu hơi tựa vào vai cô đầy âu yếm. Cô dâu ngả đầu dịu dàng tựa vào vai chú rể, một tay đặt nhẹ lên bàn tay anh đang ôm eo mình, tay còn lại thanh lịch cầm bó hoa cưới. Cả hai cùng quay đầu về phía ống kính, nở nụ cười hạnh phúc rạng rỡ, ánh mắt long lanh chứa chan tình yêu, sự ấm áp và niềm tin vững chắc vào tương lai. Biểu cảm toát lên vẻ e ấp, ngọt ngào của tình yêu đôi lứa hòa quyện với sự vững chãi, tin tưởng của một cam kết trọn đời.\n\nÁnh sáng: Ánh sáng studio mềm mại, khuếch tán hoàn hảo từ các softbox lớn, giảm thiểu tối đa bóng đổ, tôn lên làn da mịn màng, rạng rỡ của cả hai. Tông ánh sáng ấm áp dịu nhẹ, mô phỏng vẻ đẹp của hoàng hôn sớm hoặc ánh nắng ban mai, tạo nên không khí lãng mạn, mơ màng và ethereal (huyền ảo, thanh tao). Ánh sáng có điểm nhấn tinh tế vào chi tiết ren của váy cưới, trang sức và những lọn tóc bay nhẹ của cô dâu, tạo hiệu ứng lấp lánh, lung linh.\n\nGóc máy & Bố cục: Góc máy trung toàn cảnh (medium full shot), ngang tầm mắt hoặc hơi thấp một chút để tôn lên vóc dáng và trang phục của cặp đôi. Bố cục cân đối, cặp đôi được đặt ở vị trí trung tâm hoặc hơi lệch về một bên theo quy tắc một phần ba, tạo điểm nhấn hài hòa và chiều sâu cho bức ảnh. Phông nền được làm mờ nhẹ (shallow depth of field) để làm nổi bật chủ thể, tạo chiều sâu và cảm giác tập trung vào cặp đôi. Chi tiết bó hoa cưới và vòng tay ôm eo được thể hiện rõ ràng, như một biểu tượng mạnh mẽ của sự gắn kết và tình yêu.",
+    "formData": {
+      "gender": "N/A",
+      "framing": "N/A",
+      "background": "N/A",
+      "swarpFace": true,
+      "theme": "Ghép ảnh nhóm",
+      "location": "N/A",
+      "action": "N/A",
+      "emotion": "N/A",
+      "style": "N/A",
+      "resolution": "4K",
+      "aspectRatio": "9:16"
+    }
   }
 ]
