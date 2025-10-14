@@ -2977,5 +2977,25 @@
       "resolution": "4K",
       "aspectRatio": "9:16"
     }
+  },
+  {
+    "timestamp": "2025-10-14T14:04:36.761Z",
+    "ipAddress": "42.1.70.129",
+    "imagePath": "logs/images/2025-10-14T14-04-31-732Z.png",
+    "promptPath": "logs/prompts/2025-10-14T14-04-31-732Z.md",
+    "generatedPrompt": "Một đường hầm ngầm ẩm ướt, cũ kỹ, với những bức tường gạch loang lổ rêu phong và đá tự nhiên sần sùi. Nước đọng đến mắt cá chân, phản chiếu ánh sáng yếu ớt một cách lung linh. Có những đường ống cũ kỹ, gỉ sét chạy dọc trần và tường hầm, tạo nên một không gian bí ẩn và nguy hiểm.\n\nDiễn viên #1, một người đàn ông khoảng 30-40 tuổi, tóc ngắn đen, mặc bộ đồ bảo hộ lao động liền thân màu xám than, hơi ẩm ướt và lấm lem bùn đất. Trên đầu đội mũ bảo hiểm màu vàng chanh đậm, gắn đèn pin LED mạnh mẽ phát ra ánh sáng trắng xanh. Thắt lưng da bản lớn giữ chắc một thiết bị màu cam sáng ở hông phải – đây là một bộ pin di động có kích thước nhỏ gọn bất ngờ, chỉ bằng một nửa so với thông thường, trông rất hiện đại và tiện dụng. Đôi ủng cao su đen bóng loáng, dính chút bùn.\n\nNhân vật đang bước đi chậm rãi, cẩn trọng trong làn nước nông, chân phải hơi nhấc lên khỏi mặt nước. Anh nghiêng người về phía trước một chút, ánh mắt tập trung nhìn xuống dưới hoặc về phía trước bên trái, thể hiện sự cảnh giác và thăm dò. Tay phải của anh hơi giơ ra phía trước, như đang dò đường hoặc giữ thăng bằng. Tay trái buông thõng tự nhiên hoặc chạm nhẹ vào thắt lưng, gần thiết bị pin cam.\n\nÁnh sáng chủ đạo đến từ đèn pin gắn trên mũ bảo hiểm của nhân vật, tạo ra một luồng sáng mạnh mẽ, sắc nét màu trắng xanh rọi thẳng vào phía trước, làm nổi bật những giọt nước đọng trên tường và phản chiếu lấp lánh trên mặt nước. Phần còn lại của đường hầm chìm trong bóng tối sâu thẳm, chỉ lờ mờ lộ ra những chi tiết gỉ sét. Các vùng shadow cast mạnh, tạo chiều sâu và cảm giác cô lập.\n\nGóc máy trung cảnh, ngang tầm mắt hoặc hơi thấp hơn một chút, tập trung vào nhân vật từ đầu gối trở lên. Nhân vật được đặt ở một phần ba khung hình bên trái hoặc phải, để lại không gian cho đường hầm tối tăm dẫn sâu vào phía sau, tạo cảm giác về sự rộng lớn và bí ẩn của không gian. Các đường ống và tường hầm tạo thành những đường dẫn tự nhiên, hướng mắt người xem về phía nhân vật. Chú ý làm nổi bật chi tiết bộ pin nhỏ gọn màu cam trên thắt lưng, thể hiện công nghệ tiên tiến trong môi trường cổ điển.",
+    "formData": {
+      "gender": "N/A",
+      "framing": "N/A",
+      "background": "N/A",
+      "swarpFace": true,
+      "theme": "Ghép ảnh nhóm",
+      "location": "N/A",
+      "action": "N/A",
+      "emotion": "N/A",
+      "style": "N/A",
+      "resolution": "4K",
+      "aspectRatio": "9:16"
+    }
   }
 ]
