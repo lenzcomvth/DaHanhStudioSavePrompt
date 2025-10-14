@@ -3017,5 +3017,25 @@
       "resolution": "4K",
       "aspectRatio": "9:16"
     }
+  },
+  {
+    "timestamp": "2025-10-14T14:35:53.661Z",
+    "ipAddress": "171.234.15.203",
+    "imagePath": "logs/images/2025-10-14T14-35-49-707Z.png",
+    "promptPath": "logs/prompts/2025-10-14T14-35-49-707Z.md",
+    "generatedPrompt": "Kịch bản: Khoảnh Khắc Chân Dung Hoài Niệm\n\n**Bối cảnh:** Một quán cà phê sách cổ điển, yên tĩnh vào cuối giờ chiều. Ánh nắng vàng óng ả từ cửa sổ lớn đổ xuống sàn gỗ và những kệ sách cũ kỹ. Tường gạch thô mộc được điểm xuyết bằng vài bức tranh tối giản. Không khí trầm mặc, phảng phất mùi cà phê và giấy cũ.\n\n**Trang phục:**\n*   **Diễn viên #1 (Nam, 28-35 tuổi, tóc ngắn vuốt ngược màu đen):** Mặc áo sơ mi linen màu xanh olive sẫm, ống tay áo xắn cao đến khuỷu tay một cách phóng khoáng. Quần tây đen ống đứng và giày lười da nâu sẫm. Trang phục toát lên vẻ lịch lãm nhưng vẫn gần gũi, pha chút phong trần.\n*   **Diễn viên #2 (Nữ, 20-25 tuổi, tóc dài tết bím màu nâu):** Diện chiếc váy maxi dáng suông màu kem nhạt, chất liệu linen mềm mại, cổ thuyền đơn giản. Tóc dài tết bím lỏng lẻo một cách tự nhiên, buông hờ trên vai. Cô mang một chiếc vòng cổ mảnh với mặt dây chuyền nhỏ tinh xảo. Vẻ ngoài thanh thoát, dịu dàng.\n\n**Hành động & Tương tác:**\nDiễn viên nam ngồi tựa lưng vào một chiếc ghế gỗ cũ, ánh mắt trìu mến dõi theo cô gái. Một tay anh khẽ đặt hờ trên đầu gối, tay kia chống nhẹ cằm, nở một nụ cười ẩn chứa nhiều suy tư và sự thấu hiểu. Diễn viên nữ đứng cạnh anh, vai khẽ tựa vào thành ghế, đôi mắt nhìn xa xăm qua khung cửa sổ lớn nơi ánh nắng chiều đang dần tắt. Cô dùng những ngón tay thon thả vuốt nhẹ lọn tóc tết của mình, gương mặt điểm một nụ cười rất khẽ, mơ màng và bình yên, như đang chìm đắm trong một kỷ niệm đẹp hoặc một giấc mơ thầm kín. Giữa họ là một sự gắn kết không lời, đầy tĩnh lặng và sâu sắc.\n\n**Ánh sáng:**\nÁnh sáng tự nhiên của \"golden hour\" (giờ vàng) chiếu xiên qua khung cửa sổ, tạo nên những vệt sáng mềm mại, ấm áp trên mái tóc, gương mặt và trang phục của hai diễn viên. Ánh sáng này mang sắc vàng mật ong, tạo độ tương phản dịu nhẹ, làm nổi bật đường nét và biểu cảm. Bóng đổ dài và mềm, không quá gắt, tạo chiều sâu và không gian hoài cổ cho khung hình. Bầu không khí toát lên vẻ lãng mạn, hoài niệm và bình yên.\n\n**Góc máy & Bố cục:**\nTrung cảnh (Medium Shot), tập trung vào phần thân trên của hai diễn viên, từ ngang thắt lưng trở lên. Góc máy ngang tầm mắt, tạo cảm giác thân mật và chân thực. Bố cục sử dụng quy tắc một phần ba, đặt hai diễn viên hơi lệch về một phía khung hình, để lại không gian mở về phía cửa sổ và ánh nắng chiều, tạo chiều sâu và sự cân bằng thị giác. Hậu cảnh là những kệ sách mờ ảo (bokeh), làm nổi bật chủ thể chính nhưng vẫn giữ được bối cảnh đặc trưng của quán cà phê sách.",
+    "formData": {
+      "gender": "N/A",
+      "framing": "N/A",
+      "background": "N/A",
+      "swarpFace": true,
+      "theme": "Ghép ảnh nhóm",
+      "location": "N/A",
+      "action": "N/A",
+      "emotion": "N/A",
+      "style": "N/A",
+      "resolution": "4K",
+      "aspectRatio": "9:16"
+    }
   }
 ]
