@@ -2537,5 +2537,25 @@
       "resolution": "4K",
       "aspectRatio": "9:16"
     }
+  },
+  {
+    "timestamp": "2025-10-14T12:35:57.312Z",
+    "ipAddress": "58.187.21.153",
+    "imagePath": "logs/images/2025-10-14T12-35-52-395Z.png",
+    "promptPath": "logs/prompts/2025-10-14T12-35-52-395Z.md",
+    "generatedPrompt": "[Tạo ảnh nâng cao - Bắt đầu] tạo ra album ảnh cưới",
+    "formData": {
+      "gender": "Nam",
+      "framing": "Chân dung",
+      "background": "Tập trung nhân vật",
+      "swarpFace": true,
+      "theme": "",
+      "location": "",
+      "action": "",
+      "emotion": "",
+      "style": "",
+      "resolution": "4K",
+      "aspectRatio": "9:16"
+    }
   }
 ]
