@@ -3377,5 +3377,25 @@
       "resolution": "4K",
       "aspectRatio": "9:16"
     }
+  },
+  {
+    "timestamp": "2025-10-14T15:16:25.927Z",
+    "ipAddress": "171.234.15.203",
+    "imagePath": "logs/images/2025-10-14T15-16-21-730Z.png",
+    "promptPath": "logs/prompts/2025-10-14T15-16-21-730Z.md",
+    "generatedPrompt": "[Tạo ảnh nâng cao - Biến thể F:1/2 V:2/10] The male character must keep the exact uploaded reference face (Face-Lock 100%) and hairstyle (Hair-Lock 100%). No changes or alterations to facial structure. A young Asian couple is sharing a tender, romantic, and intimate moment in a rose petal-filled jacuzzi/hot tub. The woman, wearing a red bikini and a red bunny ear headband, is gazing into the man's eyes with a soft, cheerful smile. The man, wearing red swimming shorts (based on reference image 1), is holding her gently, their foreheads touching, his happy smile reflecting her joy, with gentle water ripples around them. The backdrop is a scenic green mountain/nature view seen through a large wooden-framed window, creating a relaxing and romantic atmosphere. Strong Backlighting (from a large wooden-framed window), Dramatic lighting, Cinematic golden hour lighting, Warm tone, High contrast, defined rim lighting on the couple's wet bodies. photorealistic, high-end commercial photography, cinematic photography, high-resolution photo. Medium shot, over the woman's shoulder, focusing intimately on their intertwined hands and faces, Dynamic composition, intimate angle, rule of thirds, Aspect Ratio 16:9. high-speed photography capturing a dramatic water splash effect, sharp focus on the water droplets and subjects' faces, shallow depth of field (bokeh background of the green mountains/nature), 85mm lens. Glistening wet skin texture, highly detailed water droplets, smooth ceramic/stone texture of the hot tub, delicate red rose petals floating. Joyful, euphoric, romantic, playful, intimate moment, pure happiness, fun, vibrant. Masterpiece, 8K resolution, ultra-photorealistic, highly detailed, flawless execution, perfect anatomy, best quality.",
+    "formData": {
+      "gender": "Nam",
+      "framing": "Chân dung",
+      "background": "Tập trung nhân vật",
+      "swarpFace": true,
+      "theme": "",
+      "location": "",
+      "action": "",
+      "emotion": "",
+      "style": "",
+      "resolution": "4K",
+      "aspectRatio": "9:16"
+    }
   }
 ]
