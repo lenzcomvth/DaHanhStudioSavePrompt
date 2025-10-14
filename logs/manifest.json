@@ -2897,5 +2897,25 @@
       "resolution": "4K",
       "aspectRatio": "9:16"
     }
+  },
+  {
+    "timestamp": "2025-10-14T12:48:23.207Z",
+    "ipAddress": "58.187.21.153",
+    "imagePath": "logs/images/2025-10-14T12-48-19-058Z.png",
+    "promptPath": "logs/prompts/2025-10-14T12-48-19-058Z.md",
+    "generatedPrompt": "[Tạo ảnh nâng cao - Biến thể F:1/1 V:7/10] tạo ra 1 tấm ảnh cưới trong studio, cô dâu chú rể đứng trang trọng cạnh nhau, góc chụp rộng",
+    "formData": {
+      "gender": "Nam",
+      "framing": "Chân dung",
+      "background": "Tập trung nhân vật",
+      "swarpFace": true,
+      "theme": "",
+      "location": "",
+      "action": "",
+      "emotion": "",
+      "style": "",
+      "resolution": "4K",
+      "aspectRatio": "9:16"
+    }
   }
 ]
