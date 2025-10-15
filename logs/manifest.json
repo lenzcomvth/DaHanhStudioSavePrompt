@@ -3637,5 +3637,25 @@
       "resolution": "4K",
       "aspectRatio": "9:16"
     }
+  },
+  {
+    "timestamp": "2025-10-15T00:58:07.641Z",
+    "ipAddress": "171.234.15.203",
+    "imagePath": "logs/images/2025-10-15T00-58-03-411Z.png",
+    "promptPath": "logs/prompts/2025-10-15T00-58-03-411Z.md",
+    "generatedPrompt": "[Tạo ảnh nâng cao - Biến thể F:1/1 V:1/10] Ultra-photorealistic medium shot, capturing his upper body. Use the uploaded reference photo as the facial base (100% face structure preservation), ensuring perfect realism and natural texture (not 2D or 3D illustration). Scene Description: A cold, elegant young man with ethereal beauty and refined, aristocratic detachment. His expression is calm and distant, eyes emotionless yet mesmerizing — deep pupils that seem endless. His skin is pale-white, smooth and luminous under soft cinematic night lighting, giving a faint glow. Appearance Details: Black short hair with messy bangs slightly covering the forehead. A few strands are lifted gently by the night breeze, adding motion and realism. Wears a black T-shirt layered with a black denim jacket and minimalist accessories (simple chain or earring). Lighting direction: soft side-light with shallow depth of field, emphasizing facial contours and micro-details of skin and hair. Pose: standing casually, looking over his shoulder directly at the camera with an intense gaze. Style & Technical Details: Ultra-realistic photo render, 8K sharpness, cinematic lighting, macro focus on eyes and facial skin texture. No stylization, not 2D painting, not CG modeling — must look like a high-end fashion photo captured by a real camera lens (Sony 35 mm f/1.4, macro portrait). (avoid: 3D render, 2D painting, anime, cartoon, sketch, oversharp, plastic skin, artificial look, extra limbs, deformed face, blurry, watermark, low-res).",
+    "formData": {
+      "gender": "Nam",
+      "framing": "Chân dung",
+      "background": "Tập trung nhân vật",
+      "swarpFace": true,
+      "theme": "",
+      "location": "",
+      "action": "",
+      "emotion": "",
+      "style": "",
+      "resolution": "4K",
+      "aspectRatio": "9:16"
+    }
   }
 ]
