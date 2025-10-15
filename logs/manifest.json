@@ -3837,5 +3837,25 @@
       "resolution": "4K",
       "aspectRatio": "9:16"
     }
+  },
+  {
+    "timestamp": "2025-10-15T02:56:15.682Z",
+    "ipAddress": "58.187.21.153",
+    "imagePath": "logs/images/2025-10-15T02-56-11-143Z.png",
+    "promptPath": "logs/prompts/2025-10-15T02-56-11-143Z.md",
+    "generatedPrompt": "Bối cảnh: Một hiệu sách kiêm quán cà phê cổ điển, ấm cúng và nhuốm màu thời gian. Cô gái ngồi bên cạnh khung cửa sổ lớn, được làm bằng gỗ sẫm màu, nhìn ra con phố lát đá ướt át dưới màn mưa phùn lất phất. Bên trong, không gian được lấp đầy bởi những kệ sách gỗ cao chất đầy sách cũ, tạo nên một bức tường mờ ảo dịu mắt ở hậu cảnh. Trên chiếc bàn gỗ sồi bên cạnh cô là một tách cà phê sứ trắng đang bốc khói nhẹ và một chiếc đèn bàn cổ điển với chụp đèn bằng vải lụa màu be.\nTrang phục: Cô gái mặc một chiếc áo len cổ lọ màu kem sữa, dáng rộng, tạo cảm giác thoải mái và mềm mại. Bên dưới là chiếc quần jean ống đứng màu xanh đậm, giản dị nhưng thanh lịch. Mái tóc nâu đen của cô được búi cao gọn gàng, khoe trọn phần gáy mảnh mai, và vài sợi mái thưa buông nhẹ, tự nhiên trước trán, tạo vẻ thơ mộng.\nHành động & Tương tác: Cô gái đang ngồi nghiêng người nhẹ nhàng, một tay nâng niu, mân mê trang bìa cứng của một cuốn sách cũ kỹ đã ngả màu thời gian. Ánh mắt cô chăm chú dõi theo từng dòng chữ, biểu cảm gương mặt trầm tư, tập trung cao độ. Đôi khi, cô khẽ ngước mắt lên khỏi trang sách, nhìn xa xăm ra ngoài cửa sổ nơi những hạt mưa li ti đang vẽ nên những đường nét mờ ảo trên kính, ánh nhìn đắm chìm trong suy nghĩ miên man, như đang phiêu lưu cùng câu chuyện hay đắm chìm trong những cảm xúc riêng tư. Tách cà phê ấm áp bên cạnh tựa như một người bạn đồng hành trong khoảnh khắc tĩnh lặng này.\nÁnh sáng: Ánh sáng chiều tà dịu nhẹ, màu xanh xám từ bầu trời mưa lọt qua khung cửa sổ lớn, phủ một lớp màn mỏng lên không gian. Ánh sáng này hòa quyện một cách tinh tế với ánh đèn vàng ấm áp, mềm mại tỏa ra từ chiếc đèn bàn cổ điển, tạo nên một không khí trầm tư, lãng mạn và đầy hoài niệm. Gương mặt cô gái được chiếu sáng một phần từ ánh sáng cửa sổ và phần còn lại từ ánh đèn, tạo nên những vùng sáng tối tương phản nhẹ nhàng, làm nổi bật đường nét và biểu cảm nội tâm.\nGóc máy & Bố cục: Góc máy cận trung cảnh (Medium Close-up), ngang tầm mắt, tập trung vào gương mặt cô gái và cuốn sách cô đang cầm. Bố cục được sắp xếp để làm nổi bật biểu cảm nội tâm sâu sắc của cô gái, từng chi tiết nhỏ của mái tóc búi cao và sợi mái thưa, cũng như chất liệu của chiếc áo len. Hậu cảnh được làm mờ ảo (bokeh) với những kệ sách cao chất đầy tri thức và hình ảnh mờ nhạt của cơn mưa phùn bên ngoài cửa sổ, tạo chiều sâu không gian, đồng thời hướng mọi sự chú ý vào chủ thể chính và tâm trạng mà cô đang truyền tải.",
+    "formData": {
+      "gender": "N/A",
+      "framing": "N/A",
+      "background": "N/A",
+      "swarpFace": true,
+      "theme": "Ghép ảnh nhóm",
+      "location": "N/A",
+      "action": "N/A",
+      "emotion": "N/A",
+      "style": "N/A",
+      "resolution": "4K",
+      "aspectRatio": "9:16"
+    }
   }
 ]
