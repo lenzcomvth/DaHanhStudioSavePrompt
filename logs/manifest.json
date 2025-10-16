@@ -3957,5 +3957,25 @@
       "resolution": "4K",
       "aspectRatio": "9:16"
     }
+  },
+  {
+    "timestamp": "2025-10-16T07:08:07.519Z",
+    "ipAddress": "113.185.44.170",
+    "imagePath": "logs/images/2025-10-16T07-08-02-825Z.png",
+    "promptPath": "logs/prompts/2025-10-16T07-08-02-825Z.md",
+    "generatedPrompt": "Nền: Nền Trắng, Trang phục: Sơ mi Trắng, Quân phục",
+    "formData": {
+      "gender": "N/A",
+      "framing": "N/A",
+      "background": "N/A",
+      "swarpFace": true,
+      "theme": "Làm ảnh thẻ",
+      "location": "N/A",
+      "action": "N/A",
+      "emotion": "N/A",
+      "style": "N/A",
+      "resolution": "4K",
+      "aspectRatio": "9:16"
+    }
   }
 ]
