@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2025-10-17T15:55:12.007Z",
+    "ipAddress": "171.234.15.203",
+    "formData": {
+      "gender": "Nam",
+      "framing": "Chân dung",
+      "background": "Tập trung nhân vật",
+      "swarpFace": true,
+      "theme": "",
+      "location": "",
+      "action": "",
+      "emotion": "",
+      "style": "",
+      "resolution": "4K",
+      "aspectRatio": "9:16"
+    },
+    "generatedPrompt": "[Tạo ảnh nâng cao - Biến thể F:1/1 V:8/10] In the style of Western Cinematic Realism and Adventure Fantasy. The image features a warm, desaturated color palette of brown-gold and dusty tones, with bronze skin. Lighting is soft contrast golden-hour sunlight. The final result must be hyper-realistic, photorealistic, evoking a mood that is strong, alluring, and adventurous. Create an ultra realistic photo this is a conceptual portrait with distinctly dreamlike and ethereal atmosphere, she is emerging from the ocean and sea foam like a modern day mythical goddess Aphrodite, her hand delicately raised as if shielding her eyes from an ethereal light, a serene expression. Her long dark hair wet and falling gracefully. She is wearing what appears to be a two piece swimsuit made of cream colored pearls behind her in the ocean huge vintage mirror emerges from the sea as well showing her reflection from the back the pearls drape off her shoulder in and wraps her body delicately and are elegantly arranged. Inspired by aesthetics of classical mythology art. Keep facial features intact. Captured in a close-up on her face and upper body, slightly off-center.",
+    "imagePath": "logs/images/2025-10-17T15-55-12-007Z.png",
+    "promptPath": "logs/prompts/2025-10-17T15-55-12-007Z.md"
+  },
+  {
     "timestamp": "2025-10-17T15:55:03.051Z",
     "ipAddress": "171.234.15.203",
     "formData": {
