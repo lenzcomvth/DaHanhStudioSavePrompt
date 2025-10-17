@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2025-10-17T13:24:07.888Z",
+    "ipAddress": "171.234.15.203",
+    "formData": {
+      "gender": "Nam",
+      "framing": "Chân dung",
+      "background": "Tập trung nhân vật",
+      "swarpFace": true,
+      "theme": "",
+      "location": "",
+      "action": "",
+      "emotion": "",
+      "style": "",
+      "resolution": "4K",
+      "aspectRatio": "9:16"
+    },
+    "generatedPrompt": "[Tạo ảnh nâng cao - Biến thể F:1/1 V:1/10] Create a hyper-realistic 8K vertical cinematic portrait of a young Southeast Asian woman, about 20 years old, using the same face and hairstyle from the uploaded image \n— do not modify or stylize them. She is sitting on the edge of the tropical pool, dipping her feet into the sparkling water, looking confidently towards the horizon. A full body shot from a slightly low angle, emphasizing her long legs. She wears a deep navy blue bikini with golden star prints, minimalist string design that glows subtly in sunlight. White thigh-high stockings with distinct white bands gleam softly. Background: tropical pool, sparkling reflections, palm leaves moving in gentle breeze. Lighting: bright, natural sunlight with cinematic tone. Mood: confident, sensual, luxurious summer atmosphere. (Use uploaded face and hairstyle exactly as in the reference image.)",
+    "imagePath": "logs/images/2025-10-17T13-24-07-888Z.png",
+    "promptPath": "logs/prompts/2025-10-17T13-24-07-888Z.md"
+  },
+  {
     "timestamp": "2025-10-17T13:23:15.317Z",
     "ipAddress": "171.234.15.203",
     "formData": {
