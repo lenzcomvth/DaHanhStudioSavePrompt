@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2025-10-17T12:28:45.635Z",
+    "ipAddress": "171.234.15.203",
+    "formData": {
+      "gender": "Nam",
+      "framing": "Chân dung",
+      "background": "Tập trung nhân vật",
+      "swarpFace": true,
+      "theme": "",
+      "location": "",
+      "action": "",
+      "emotion": "",
+      "style": "",
+      "resolution": "4K",
+      "aspectRatio": "9:16"
+    },
+    "generatedPrompt": "[Tạo ảnh nâng cao - Biến thể F:1/1 V:2/10] Create a hyper-realistic 8K vertical cinematic portrait of a young Southeast Asian woman, about 20 years old, using the exact same face as in the uploaded image (match facial structure, eyes, lips, and expression 100%) — do not alter or stylize the face. Use the same hairstyle, color, and texture as in the uploaded image — do not modify or restyle the hair in any way. Her slim, toned body exudes confidence and elegance. She is sitting gracefully on the very edge of the pool, dipping her feet into the shimmering water, upper body twisted slightly, a subtle, alluring smile playing on her lips. This is a mid-shot, capturing her from the waist up. She wears a tight minimalist two-piece string bikini, deep navy blue in color, decorated with small golden star prints that shimmer under sunlight. White thigh-high stockings with distinct white bands at the top highlight her legs under soft sunlight. Background: luxury poolside scene, shimmering water reflections, blurred people swimming. Lighting: soft daylight, cinematic contrast. Mood: seductive, poised, confident. (Use uploaded face and hairstyle exactly as in the reference image. Match tone, lighting, and proportions precisely. Do not alter or stylize the face or hair.)",
+    "imagePath": "logs/images/2025-10-17T12-28-45-635Z.png",
+    "promptPath": "logs/prompts/2025-10-17T12-28-45-635Z.md"
+  },
+  {
     "timestamp": "2025-10-17T12:28:31.471Z",
     "ipAddress": "171.234.15.203",
     "formData": {
