@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2025-10-17T13:34:30.361Z",
+    "ipAddress": "171.234.15.203",
+    "formData": {
+      "gender": "Nam",
+      "framing": "Chân dung",
+      "background": "Tập trung nhân vật",
+      "swarpFace": true,
+      "theme": "",
+      "location": "",
+      "action": "",
+      "emotion": "",
+      "style": "",
+      "resolution": "4K",
+      "aspectRatio": "9:16"
+    },
+    "generatedPrompt": "[Tạo ảnh nâng cao - Bắt đầu] Create: a hyper-realistic portrait photo of a stunning Asian woman (use uploaded foto) lying gracefully on a luxury white yacht deck in tropical scenery.\nShe has long, wavy brown hair flowing gently in the breeze, smooth radiant skin, and a natural elegant look.\nShe wears a minimal white string bikini and delicate jewelry — a silver necklace and bracelet.\nSoft natural sunlight illuminates her face and body, creating a warm gentle glow.\nBackground shows emerald turquoise sea water and tall limestone cliffs covered with lush green tropical vegetation.\nCamera angle eye-level, cinematic composition, 85mm lens, bokeh background, ultra sharp details, high resolution 8K, natural color grading.",
+    "imagePath": "logs/images/2025-10-17T13-34-30-361Z.png",
+    "promptPath": "logs/prompts/2025-10-17T13-34-30-361Z.md"
+  },
+  {
     "timestamp": "2025-10-17T13:26:01.607Z",
     "ipAddress": "171.234.15.203",
     "formData": {
