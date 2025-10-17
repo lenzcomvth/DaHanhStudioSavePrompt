@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2025-10-17T17:36:33.774Z",
+    "ipAddress": "171.253.185.249",
+    "formData": {
+      "gender": "Nam",
+      "framing": "Chân dung",
+      "background": "Tập trung nhân vật",
+      "swarpFace": true,
+      "theme": "",
+      "location": "",
+      "action": "",
+      "emotion": "",
+      "style": "",
+      "resolution": "4K",
+      "aspectRatio": "9:16"
+    },
+    "generatedPrompt": "[Tạo ảnh nâng cao - Biến thể F:1/2 V:4/10] Upload1️⃣ The original male face (use 100% of the real face without altering the structure)2️⃣ The reference outfit for the female (Image 2)🎨 Image Details (Ultra Photorealistic 8K HDR)🏛️ Scene:Inside a royal Thai chamber of an ancient palace or noble mansion. The room is adorned with traditional Thai furniture and copper-gold wall motifs. Elegant triangular pillows and deep red silk cushions are neatly arranged in traditional fashion, evoking the grandeur of a bygone era.🌇 Tone:A warm golden-brown sepia tone, luxurious and classic, reflecting the atmosphere of early Rattanakosin elegance. Soft lamp light from oil lanterns glows across gold ornaments, giving a gentle and sophisticated radiance.💫 Mood:The image conveys power, reverence, and hierarchy—a symbolic act of devotion and submission from a subject to a nobleman. The atmosphere feels intimate, solemn, yet subtly sensual in an artistic sense.🎭 Poses (Male & Female):The man, slightly chubby with a dignified aura, stands tall beside the cushions, one hand on his hip, exuding a commanding presence.The woman, still kneeling gracefully, looks up at him directly with an expression of humble admiration, her hands pressed together in a respectful wai. She has long, slightly tousled straight hair, with a few strands falling naturally along her cheeks.Makeup style: Douyin Girl — soft, natural, glowing look with bright red lips that contrast beautifully with the sepia tone.👑 Costumes:The man wears a traditional gold silk loincloth with authentic Thai noble jewelry — including a gold chest ornament, shoulder sash, armbands, and necklaces reminiscent of ancient Thai aristocracy.The woman wears a two-piece outfit as shown in the second image, accentuating her curves, especially the hips, representing simplicity, elegance, and submission in harmony with the royal aesthetic.🎥 Camera Angle:Low angle shot, looking up at the man, with the kneeling woman in the foreground, enhancing his stature and emphasizing his dominant position.Composition emphasizes the man positioned higher to signify his status and dominance, while the woman’s pose conveys humility and respect — achieving a cinematic yet culturally reverent visual balance.",
+    "imagePath": "logs/images/2025-10-17T17-36-33-774Z.png",
+    "promptPath": "logs/prompts/2025-10-17T17-36-33-774Z.md"
+  },
+  {
     "timestamp": "2025-10-17T17:36:24.011Z",
     "ipAddress": "171.253.185.249",
     "formData": {
