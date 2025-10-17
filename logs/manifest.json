@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2025-10-17T17:29:26.348Z",
+    "ipAddress": "171.253.185.249",
+    "formData": {
+      "gender": "Nam",
+      "framing": "Chân dung",
+      "background": "Tập trung nhân vật",
+      "swarpFace": true,
+      "theme": "",
+      "location": "",
+      "action": "",
+      "emotion": "",
+      "style": "",
+      "resolution": "4K",
+      "aspectRatio": "9:16"
+    },
+    "generatedPrompt": "[Tạo ảnh nâng cao - Biến thể F:1/1 V:4/10] A young couple in a modern bathroom under the shower. The woman has long wet black hair, standing in the bathtub, wrapped in a thin white translucent fabric that clings to her skin, creating a sensual and artistic look. Her hands are clasped on the man's bare chest, looking up at him with vulnerability. The man, shirtless with short black wet hair and droplets of water on his skin, wears only black pants, is holding her face in his hands, gazing deeply into her eyes. The bathroom has gray tiled walls, a silver rain shower, and a handheld showerhead. The mood is intimate, cinematic, and softly lit, emphasizing realism, water reflections, and emotional tension between the two characters. An eye-level, waist-up shot emphasizes their intense eye contact.",
+    "imagePath": "logs/images/2025-10-17T17-29-26-348Z.png",
+    "promptPath": "logs/prompts/2025-10-17T17-29-26-348Z.md"
+  },
+  {
     "timestamp": "2025-10-17T17:29:18.494Z",
     "ipAddress": "171.253.185.249",
     "formData": {
