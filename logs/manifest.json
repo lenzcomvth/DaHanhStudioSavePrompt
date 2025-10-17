@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2025-10-17T12:37:19.837Z",
+    "ipAddress": "171.234.15.203",
+    "formData": {
+      "gender": "Nam",
+      "framing": "Chân dung",
+      "background": "Tập trung nhân vật",
+      "swarpFace": true,
+      "theme": "",
+      "location": "",
+      "action": "",
+      "emotion": "",
+      "style": "",
+      "resolution": "4K",
+      "aspectRatio": "9:16"
+    },
+    "generatedPrompt": "[Tạo ảnh nâng cao - Bắt đầu] Create a hyper-realistic 8K vertical cinematic portrait of a young Southeast Asian woman, about 20 years old, using the exact same face as in the uploaded image (match facial structure, eyes, lips, and expression 100%) — do not alter or stylize the face.\n\nUse the same hairstyle, color, and texture as in the uploaded image — do not modify or restyle the hair in any way.\n\nHer slim, toned body exudes confidence and elegance, with refined aesthetic proportions — a fuller, enhanced bust (voluptuous breasts) and well-shaped, lifted hips, giving her silhouette a balanced and feminine hourglass figure that looks both natural and cinematic under soft daylight.\n\n\n\nLeaning back fully on the lounger, both arms resting above her head. Her chest lifts naturally with sunlight gleaming across her skin, one knee bent upward, showing her confident hourglass silhouette.\n\n\nShe wears a tight minimalist two-piece string bikini, deep navy blue, decorated with small golden star prints that shimmer subtly under sunlight.\n\nWhite thigh-high stockings with distinct white bands at the top highlight her legs and curves under the soft cinematic sunlight.\n\nBackground: luxury poolside scene, shimmering water reflections, blurred people swimming in the distance.\nLighting: soft daylight, cinematic contrast.\nMood: seductive, poised, confident.\n\n(Use the uploaded face and hairstyle exactly as in the reference image.\nMatch tone, lighting, and proportions precisely.\nDo not alter or stylize the face or hair.)",
+    "imagePath": "logs/images/2025-10-17T12-37-19-837Z.png",
+    "promptPath": "logs/prompts/2025-10-17T12-37-19-837Z.md"
+  },
+  {
     "timestamp": "2025-10-17T12:36:26.144Z",
     "ipAddress": "171.234.15.203",
     "formData": {
