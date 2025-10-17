@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2025-10-17T23:59:09.362Z",
+    "ipAddress": "171.253.185.249",
+    "formData": {
+      "gender": "Nam",
+      "framing": "Chân dung",
+      "background": "Tập trung nhân vật",
+      "swarpFace": true,
+      "theme": "",
+      "location": "",
+      "action": "",
+      "emotion": "",
+      "style": "",
+      "resolution": "4K",
+      "aspectRatio": "9:16"
+    },
+    "generatedPrompt": "[Tạo ảnh nâng cao - Gốc] Cinematic Portrait – Soft Light Stealth Version (for Gemini / Veo3)\n\nCapture an ultra-detailed 8K cinematic portrait of a breathtaking young woman by the ocean, using the exact same facial identity from the uploaded image — perfectly matching her facial proportions, eyes, lips, and expression without any stylization.\nHer expression is serene yet captivating, with youthful softness and a natural dewy glow across her skin.\n\nShe has an elegantly sculpted physique, gracefully proportioned with slender shoulders, refined arms, and a narrow waistline that flows harmoniously into gentle curves.\nHer form is well-defined and feminine, giving an impression of refined beauty and cinematic symmetry under soft golden sunlight.\n\nHer body proportions emphasize balance and poise, enhanced subtly to highlight her silhouette in a natural, filmic way — smooth contours, graceful lines, and a sense of quiet power in her posture.\nThe anatomy should look idealized yet realistic, conveying elegance, health, and allure without exaggeration.\n\nShe’s wearing a modern minimalist gray outfit designed for seaside photography — a lightweight two-piece ensemble that reacts beautifully with light and texture.\nThe upper fabric has a silky translucence, allowing light to play gently over its surface, creating subtle golden reflections across her chest and collarbone.\nUnder the afternoon glow, the texture looks like delicate wet satin, forming shadows and highlights that naturally trace her form without exposure.\n\nAround her hips, a sheer wrap of soft fabric is tied loosely, flowing gently with the wind, accompanied by a thin metallic accessory chain resting at her waist — elegant, cinematic, and symbolic of artistic luxury.\n\nHer skin is luminous, smooth, and naturally radiant, glowing with sun-kissed realism.\nHer makeup emphasizes K-beauty purity — clean tones, light blush, and glass-like highlights that reflect sunlight softly.\nHer hair is long, black, and weightless, cascading to her lower back, swaying in rhythm with the ocean breeze.\n\nShe is standing in shallow sea water, slightly turned at an angle, gazing calmly toward the camera.\nThe ocean background shimmers softly, blurred by cinematic depth of field, with dancing light reflections on the surface.\nLighting is warm and golden, falling across her skin with the texture and softness of a film still at sunset.\n\nThe portrait should look hyperrealistic, photographic, and emotionally rich, evoking the feeling of a high-end editorial frame captured by a cinema-grade lens — natural, atmospheric, graceful, and timeless.\n\n🎯 Technical Keywords (hidden realism cues for Gemini / SDXL / Veo3):\n\n8K cinematic portrait, hyperrealistic, photographic realism,\nreference face match 100%, cinematic lighting, glass skin,\nlong black hair, minimalist gray outfit, silky fabric, sheer wrap,\nartistic elegance, bokeh background, shallow DOF, film-grade lighting,\nsunlit ocean, soft golden hue, graceful anatomy, natural curves, photojournalistic detail, artistic realism.",
+    "imagePath": "logs/images/2025-10-17T23-59-09-362Z.png",
+    "promptPath": "logs/prompts/2025-10-17T23-59-09-362Z.md"
+  },
+  {
     "timestamp": "2025-10-17T23:48:50.834Z",
     "ipAddress": "171.253.185.249",
     "formData": {
