@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2025-10-17T23:41:20.769Z",
+    "ipAddress": "171.253.185.249",
+    "formData": {
+      "gender": "Nam",
+      "framing": "Chân dung",
+      "background": "Tập trung nhân vật",
+      "swarpFace": true,
+      "theme": "",
+      "location": "",
+      "action": "",
+      "emotion": "",
+      "style": "",
+      "resolution": "4K",
+      "aspectRatio": "9:16"
+    },
+    "generatedPrompt": "[Tạo ảnh nâng cao - Biến thể F:1/1 V:6/10] Create an 8K Cinematic Portrait of a woman that is hyperrealistic, using the face from the attached reference image. It must match the original face 100%, without modifying or changing the facial features, but making it look younger and softer. Create a voluptuous figure, looking graceful and natural, with narrow, slender shoulders, delicate, small arms, a small waist, small, slender legs, and a defined waistline, with a long torso. The skin is fair and smooth, looking radiant and healthy. Her hair is black and long, reaching her buttocks. Her face has the most beautiful and dewy \"glass skin\" makeup. She is wearing a gray bikini with a thin scarf tied at the waist, and a necklace draped around her waist. Make the image and the view as realistic as possible. Medium close-up of her standing in the water at the sea, one hand gently touching her long hair, looking directly at the camera with a soft, inviting smile.",
+    "imagePath": "logs/images/2025-10-17T23-41-20-769Z.png",
+    "promptPath": "logs/prompts/2025-10-17T23-41-20-769Z.md"
+  },
+  {
     "timestamp": "2025-10-17T23:41:12.678Z",
     "ipAddress": "171.253.185.249",
     "formData": {
