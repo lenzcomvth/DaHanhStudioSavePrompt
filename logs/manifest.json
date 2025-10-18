@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2025-10-18T00:03:48.485Z",
+    "ipAddress": "171.253.185.249",
+    "formData": {
+      "gender": "Nam",
+      "framing": "Chân dung",
+      "background": "Tập trung nhân vật",
+      "swarpFace": true,
+      "theme": "",
+      "location": "",
+      "action": "",
+      "emotion": "",
+      "style": "",
+      "resolution": "4K",
+      "aspectRatio": "9:16"
+    },
+    "generatedPrompt": "[Tạo ảnh nâng cao - Gốc] [Tạo ảnh nâng cao - Biến thể F:1/1 V:10/10] Create an ultra-realistic 8K cinematic portrait of a stunning young woman, using the exact same face from the uploaded reference image — match facial structure, eyes, lips, and expression 100% without altering or stylizing the face. The face should look slightly younger and softer, with smooth, fair skin and a delicate glow. Her figure is voluptuous yet graceful, perfectly proportioned and natural. She has narrow, slender shoulders, delicate arms, a tiny, defined waist, and slender legs with a long torso that accentuates her elegant posture. Her bust and hips are surgically enhanced, appearing twice as full as average, but still beautifully balanced with her slim frame. The enhancements look refined and realistic, creating a natural hourglass silhouette — full, lifted breasts and rounded hips that look smooth and perfectly contoured under the light. Her skin is fair, radiant, and flawless — glowing with a natural, healthy sheen under sunlight. Her makeup features K-beauty “glass skin” style, making her face luminous, dewy, and fresh. Her hair is jet black, long, and flowing down to her buttocks, moving softly in the sea breeze. She wears a gray bikini, with a thin translucent scarf tied at her waist, and a delicate necklace draped around her hips as an accent accessory. She is standing in shallow sea water, gently touching the water with her fingertips, her gaze thoughtful and serene, slightly averted from the lens, captured in a tight shot focusing on her face and hands, with soft bokeh. The background shows the sunlit ocean, softly blurred, with natural daylight reflections dancing on the water. Lighting is soft, golden, and cinematic, enhancing her skin tone and contours with realism and depth. The overall image should look photographically real, detailed, emotional, and visually stunning — like a frame from a high-end film camera shot at 8K resolution. 🎯 Optional technical keywords (nếu dùng với AI model như Midjourney / SDXL / Veo3): 8K ultra-realistic, cinematic portrait, hyperrealistic, photorealistic, reference face match 100%, glass skin makeup, fair radiant skin, long black hair, gray bikini, scarf at waist, waist necklace, standing in shallow sea water, touching water, thoughtful gaze, averted from lens, tight shot, face and hands focus, soft bokeh, soft golden cinematic lighting, hourglass figure, enhanced bust and hips, natural anatomy, high detail, DOF, bokeh background.",
+    "imagePath": "logs/images/2025-10-18T00-03-48-485Z.png",
+    "promptPath": "logs/prompts/2025-10-18T00-03-48-485Z.md"
+  },
+  {
     "timestamp": "2025-10-18T00:03:17.530Z",
     "ipAddress": "171.253.185.249",
     "formData": {
