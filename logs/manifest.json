@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2025-10-18T00:36:41.213Z",
+    "ipAddress": "171.253.185.249",
+    "formData": {
+      "gender": "Nam",
+      "framing": "Chân dung",
+      "background": "Tập trung nhân vật",
+      "swarpFace": true,
+      "theme": "",
+      "location": "",
+      "action": "",
+      "emotion": "",
+      "style": "",
+      "resolution": "4K",
+      "aspectRatio": "9:16"
+    },
+    "generatedPrompt": "[Tạo ảnh nâng cao - Gốc] A portrait (100% original face) of a  young woman in a red triangle top swimwear and string bottom swimwear standing beside a brown horse in a sunny open field. \nHer surgically enhanced bust and hips are noticeably fuller — roughly twice the size of an average woman’s — yet perfectly proportioned to her slender frame. The enhancements appear natural, smooth, and elegantly shaped under soft daylight, emphasizing her hourglass silhouette.\nShe has one arm resting on the horse’s head, and the background shows green trees and a bright blue sky. \nThe scene is warm, cheerful, and natural, with clear daylight and realistic detail.",
+    "imagePath": "logs/images/2025-10-18T00-36-41-213Z.png",
+    "promptPath": "logs/prompts/2025-10-18T00-36-41-213Z.md"
+  },
+  {
     "timestamp": "2025-10-18T00:32:44.101Z",
     "ipAddress": "171.253.185.249",
     "formData": {
