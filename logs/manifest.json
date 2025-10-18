@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2025-10-18T13:32:28.814Z",
+    "ipAddress": "171.253.185.249",
+    "formData": {
+      "gender": "Nam",
+      "framing": "Chân dung",
+      "background": "Tập trung nhân vật",
+      "swarpFace": true,
+      "theme": "",
+      "location": "",
+      "action": "[Tạo ảnh nâng cao - Biến thể F:1/1 V:2/10]",
+      "emotion": "",
+      "style": "",
+      "resolution": "4K",
+      "aspectRatio": "9:16"
+    },
+    "generatedPrompt": "Create a hyper-photorealistic portrait of you in a swimming pool at night, ensuring the face is copied from the upload.Critical: copy face upload.Here's the breakdown:Overall Style: Hyper-photorealistic portrait, moody atmosphere, split-view perspective (above and below waterline).Subject: You (copy face upload).Setting: Swimming pool at night.Attire & Accessories: Diamond chain necklace and matching earrings, blue two-piece bikini, bold lipstick.Details: Glowing skin, Floating gracefully on the back, looking up towards the surface, with a wide shot capturing the full body, Wet hair clearly visible, Water droplets on body.Perspective: Split-view perspective both above and below the waterline, Above and below, crystal-clear water reveals body half wearing swimsuit, Adds depth.The goal is to create a visually stunning and incredibly realistic image that captures a sense of allure, mystery, and the beauty of being immersed in water. The uploaded face will be accurately preserved.Dramatic underwater pool lighting combined with soft rim lighting, creating deep shadows, glowing skin highlights, and sparkling water effects.50mm f/1.4 prime lens, offering a natural perspective, excellent low-light performance, and creamy bokeh for depth separation.Cool cinematic tones dominated by deep blues and greens from the water, contrasting with warm, glowing skin tones and vibrant accents from the lipstick and jewelry.Ultra-sharp 8K details, with crystal-clear focus on the face, water droplets, and the precise texture of skin and accessories.Luxurious swimming pool at night, with subtle integrated underwater illumination and dark, reflective surroundings.Hyper-photorealistic cinematic portrait, blending high-fashion editorial aesthetics with a moody and alluring underwater photography style.",
+    "imagePath": "logs/images/2025-10-18T13-32-28-814Z.png",
+    "promptPath": "logs/prompts/2025-10-18T13-32-28-814Z.md"
+  },
+  {
     "timestamp": "2025-10-18T13:32:05.945Z",
     "ipAddress": "171.253.185.249",
     "formData": {
