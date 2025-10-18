@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2025-10-18T16:27:13.628Z",
+    "ipAddress": "171.253.185.249",
+    "formData": {
+      "gender": "N/A",
+      "framing": "N/A",
+      "background": "N/A",
+      "swarpFace": true,
+      "theme": "Ghép ảnh nhóm",
+      "location": "N/A",
+      "action": "Tạo ảnh nhóm",
+      "emotion": "N/A",
+      "style": "N/A",
+      "resolution": "4K",
+      "aspectRatio": "9:16"
+    },
+    "generatedPrompt": "Một bức ảnh chân thực, chất lượng cao, độ phân giải sắc nét, mang màu sắc điện ảnh.\n\n**Bối cảnh:** Một bãi biển nhiệt đới hoang sơ vào giờ vàng chiều muộn. Cát vàng mịn màng trải dài dưới chân. Những con sóng nhỏ nhẹ nhàng lăn tăn vỗ bờ ở xa. Phía chân trời là bầu trời trong xanh với một vài đám mây mỏng, và thấp thoáng bóng dáng những hàng dừa xa xăm, tạo chiều sâu cho khung hình.\n\n**Diễn viên:**\n*   **Nam:** Khoảng 28-35 tuổi, tóc ngắn màu nâu đen chải gọn gàng, thân hình săn chắc, làn da rám nắng khỏe mạnh. Anh ấy mặc một chiếc quần đùi bơi màu xanh navy tối giản, không áo.\n*   **Nữ:** Khoảng 20-30 tuổi, tóc dài màu nâu sẫm buông xõa tự nhiên, dáng người cân đối, làn da rám nắng. Cô ấy mặc một bộ đồ bơi một mảnh màu xanh ngọc lục bảo, thiết kế tinh tế, tôn dáng.\nCả hai diễn viên đều có chiều cao tương đương nhau là 5'10\" (khoảng 178 cm), tạo cảm giác cân đối và hài hòa trong khung hình.\n\n**Hành động & Tương tác:** Hai người đứng sát cạnh nhau trên cát, vai kề vai. Người nam vòng cánh tay phải qua vai người nữ một cách thân mật, dịu dàng. Người nữ vòng cánh tay trái qua eo người nam, tựa nhẹ đầu vào vai anh ấy hoặc đứng rất gần, nở nụ cười rạng rỡ, ấm áp. Cả hai nhìn thẳng vào ống kính máy ảnh với ánh mắt tràn đầy sự gắn kết của tình bạn thân thiết, biểu cảm tự nhiên, thoải mái và tự tin.\n\n**Ánh sáng:** Ánh sáng chiều muộn, giờ vàng. Mặt trời lặn thấp ở phía chân trời, chiếu sáng từ phía sau và hơi lệch một bên, tạo ra ánh sáng vàng cam ấm áp, mềm mại, bao phủ toàn bộ cảnh. Ánh sáng này làm nổi bật các điểm sáng lấp lánh trên tóc, vai và làn da của họ, tạo độ sâu và chiều không gian. Bóng đổ dài và mờ ảo của họ kéo dài trên cát về phía người xem, thêm vào không khí lãng mạn và yên bình.\n\n**Góc máy & Bố cục:** Góc máy trung toàn cảnh (Medium Full Shot), lấy trọn vẹn hai nhân vật từ đầu gối trở lên, tập trung vào biểu cảm gương mặt và sự tương tác thân mật của họ. Bố cục cân đối, hai nhân vật là trung tâm của khung hình. Đường chân trời được đặt ở một phần ba dưới của khung hình theo quy tắc một phần ba, cân bằng giữa bầu trời rộng lớn và khung cảnh bãi biển phía sau.",
+    "imagePath": "logs/images/2025-10-18T16-27-13-628Z.png",
+    "promptPath": "logs/prompts/2025-10-18T16-27-13-628Z.md"
+  },
+  {
     "timestamp": "2025-10-18T16:24:58.491Z",
     "ipAddress": "171.253.185.249",
     "formData": {
