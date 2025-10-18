@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2025-10-18T16:23:08.774Z",
+    "ipAddress": "171.253.185.249",
+    "formData": {
+      "gender": "Nam",
+      "framing": "Chân dung",
+      "background": "Tập trung nhân vật",
+      "swarpFace": true,
+      "theme": "",
+      "location": "",
+      "action": "[Tạo ảnh nâng cao - Gốc]",
+      "emotion": "",
+      "style": "",
+      "resolution": "4K",
+      "aspectRatio": "9:16"
+    },
+    "generatedPrompt": "🎨 Prompt (Ultra Photorealistic 8K HDR)\nUpload the original facial images of both the male and female subjects (100% unchanged facial structure) and the female outfit reference (image 2).\n📍 Scene Description:\nA photo taken inside a cosplay event held in a hotel ballroom. Bright indoor lighting fills the area.\nBooth tables are decorated with muted pink cloths and various collectibles such as posters, photo cards, and gacha capsule machines.\nIn the background, there are cosplayers walking around in colorful costumes, adding a lively atmosphere.\n👩 Female (Cosplayer):\nUse the exact original face (100%), with no facial structure changes.\nWearing the full outfit exactly as shown in image 2, emphasizing her curvy figure, especially around the hips.\nHer expression is emotional, with teary eyes and a pleading look — a mix of sadness, desperation, and slight comedic drama.\nShe is kneeling on a light gray carpet, hugging the man’s leg tightly, both hands clutching the hem of his shorts.\n👨 Male:\nUse the exact original face (100%), no modifications, rendered in 8K detail.\nSlightly chubby build with a small belly.\nWearing a white printed T-shirt, black shorts, and Air Jordan 1 Retro Low OG “University Red” sneakers.\nStands slightly sideways, looking straight ahead with a neutral, uninterested expression.\nOne hand rests naturally by his side, while the other holds merchandise or items purchased at the event.\n📸 Camera Angle & Tone:\nEye-level shot, capturing both subjects in full body.\nBright indoor tone, with natural lighting reflecting the event environment.\nThe overall mood is humorous yet dramatic, blending comedy and emotional tension for a cinematic and realistic feel., Soft, diffused natural window light through sheer white curtains, 85mm f/1.4 lens, shallow depth of field, creamy bokeh, Soft, warm, and inviting color palette with gentle contrast, Hyper-realistic sharpness, 8k details, crisp focus on the subject, Cozy private bedroom by a sunlit window with sheer white curtains, Intimate cinematic portraiture, magazine editorial quality",
+    "imagePath": "logs/images/2025-10-18T16-23-08-774Z.png",
+    "promptPath": "logs/prompts/2025-10-18T16-23-08-774Z.md"
+  },
+  {
     "timestamp": "2025-10-18T16:21:47.540Z",
     "ipAddress": "171.253.185.249",
     "formData": {
