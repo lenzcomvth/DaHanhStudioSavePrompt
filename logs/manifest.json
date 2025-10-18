@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2025-10-18T00:01:02.349Z",
+    "ipAddress": "171.253.185.249",
+    "formData": {
+      "gender": "Nam",
+      "framing": "Chân dung",
+      "background": "Tập trung nhân vật",
+      "swarpFace": true,
+      "theme": "",
+      "location": "",
+      "action": "",
+      "emotion": "",
+      "style": "",
+      "resolution": "4K",
+      "aspectRatio": "9:16"
+    },
+    "generatedPrompt": "[Tạo ảnh nâng cao - Gốc] Create an ultra-realistic 8K cinematic portrait of a young woman standing in shallow sea water at sunset.\nUse the exact same facial identity from the uploaded reference image — match eyes, lips, and expression 100%.\nHer face looks slightly younger and softer with smooth, fair skin and a gentle natural glow.\nShe wears a light gray outfit made of light-reactive silk, a fabric that catches the warm sunlight and shows fine gradients of tone.\nA soft scarf is tied loosely around her waist, moving gently with the sea breeze, and a small metallic accessory adds a touch of elegance.\nHer long black hair flows naturally down her back.\nLighting is soft, golden, and cinematic; the background is the sunlit ocean with reflections dancing on the surface.\nThe image should look like a high-end film still — photographically real, emotional, and refined.\n\nKeywords:\n8K cinematic portrait, hyperrealistic, photorealistic, reference face match 100%,\nlight-reactive silk, soft golden lighting, bokeh background, DOF, high detail, film still aesthetic.",
+    "imagePath": "logs/images/2025-10-18T00-01-02-349Z.png",
+    "promptPath": "logs/prompts/2025-10-18T00-01-02-349Z.md"
+  },
+  {
     "timestamp": "2025-10-17T23:59:09.362Z",
     "ipAddress": "171.253.185.249",
     "formData": {
