@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2025-10-18T00:58:20.575Z",
+    "ipAddress": "171.253.185.249",
+    "formData": {
+      "gender": "Nam",
+      "framing": "Chân dung",
+      "background": "Tập trung nhân vật",
+      "swarpFace": true,
+      "theme": "",
+      "location": "",
+      "action": "",
+      "emotion": "",
+      "style": "",
+      "resolution": "4K",
+      "aspectRatio": "9:16"
+    },
+    "generatedPrompt": "[Tạo ảnh nâng cao - Gốc] Create a realistic image.\nUse the same face shape 100%.\nUse the image I provided. I made myself a young woman with long, curly black hair, wearing small, stylish sunglasses on her head, and a navy blue bikini top tied with a cream bow. She held a can of beer in her hand, resting her arms on a wooden floor. Her torso was angled slightly, emphasizing her proportions. She wore a layered gold necklace, earrings, and a dark bracelet on her left wrist. Dry palm leaves overhead provided natural shade, while blurred palm trees and a bright, light-colored background evoked a relaxed, beach-like atmosphere. The bright, natural lighting casted soft shadows that accentuated her confident, chic pose. Do not alter or modify her facial features.",
+    "imagePath": "logs/images/2025-10-18T00-58-20-575Z.png",
+    "promptPath": "logs/prompts/2025-10-18T00-58-20-575Z.md"
+  },
+  {
     "timestamp": "2025-10-18T00:58:06.131Z",
     "ipAddress": "171.253.185.249",
     "formData": {
