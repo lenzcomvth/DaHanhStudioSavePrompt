@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2025-10-18T06:59:31.494Z",
+    "ipAddress": "171.253.185.249",
+    "formData": {
+      "gender": "Nam",
+      "framing": "Chân dung",
+      "background": "Tập trung nhân vật",
+      "swarpFace": true,
+      "theme": "",
+      "location": "",
+      "action": "[Tạo ảnh nâng cao - Biến thể F:1/1 V:1/10]",
+      "emotion": "",
+      "style": "",
+      "resolution": "4K",
+      "aspectRatio": "9:16"
+    },
+    "generatedPrompt": "Create A hyper realistic 4k Quality details cinematic scene DSLR Canon cam super shot HD picture photo of a young woman (Attached facial reference photo, 99.9% detail similarity) in a light pink bikini, gracefully leaning against the stone wall, looking over her shoulder in front of a textured stone wall with cascading water. Captured with a Sony Alpha 7 III, 50mm lens, f/2.8, ISO 200, 1/250 sec, full body shot from a high angle. Natural sunlight with soft shadows, the cleavage Soaring, A faint smile, balanced composition with the woman centered, warm skin tones contrasting against the cool gray stone, detailed texture of wet skin and hair. With the same face and hair style., Soft natural daylight with subtle highlights and gentle shadows, 50mm prime lens, f/2.8 for gentle background blur, Warm skin tones contrasting against cool gray stone, cinematic color grading, Ultra-sharp, hyper-realistic 4K details, intricate textures of wet skin and hair, Outdoor setting with a natural textured stone wall and cascading water feature, Hyper-realistic cinematic photography with high-definition detail",
+    "imagePath": "logs/images/2025-10-18T06-59-31-494Z.png",
+    "promptPath": "logs/prompts/2025-10-18T06-59-31-494Z.md"
+  },
+  {
     "timestamp": "2025-10-18T06:52:21.039Z",
     "ipAddress": "171.253.185.249",
     "formData": {
