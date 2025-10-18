@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2025-10-18T12:50:19.721Z",
+    "ipAddress": "171.253.185.249",
+    "formData": {
+      "gender": "N/A",
+      "framing": "N/A",
+      "background": "N/A",
+      "swarpFace": true,
+      "theme": "AI Thay Đồ",
+      "location": "N/A",
+      "action": "Mặc đồ bơi đang đứng bãi biễn nắng đẹp khoe dáng",
+      "emotion": "N/A",
+      "style": "N/A",
+      "resolution": "4K",
+      "aspectRatio": "9:16"
+    },
+    "generatedPrompt": "AI Fitting Room: Mặc đồ bơi đang đứng bãi biễn nắng đẹp khoe dáng",
+    "imagePath": "logs/images/2025-10-18T12-50-19-721Z.png",
+    "promptPath": "logs/prompts/2025-10-18T12-50-19-721Z.md"
+  },
+  {
     "timestamp": "2025-10-18T10:26:28.280Z",
     "ipAddress": "171.253.185.249",
     "formData": {
