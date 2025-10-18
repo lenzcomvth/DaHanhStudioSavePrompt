@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2025-10-18T17:01:33.839Z",
+    "ipAddress": "171.253.185.249",
+    "formData": {
+      "gender": "Nam",
+      "framing": "Chân dung",
+      "background": "Tập trung nhân vật",
+      "swarpFace": true,
+      "theme": "",
+      "location": "",
+      "action": "[Tạo ảnh nâng cao - Gốc]",
+      "emotion": "",
+      "style": "",
+      "resolution": "4K",
+      "aspectRatio": "9:16"
+    },
+    "generatedPrompt": "{\n  \"name\": \"Asian Woman Hotel Date Night\",\n  \"id\": \"2025-10-18T23-58-31Z\",\n  \"version\": \"1.0\",\n  \"language\": \"en\",\n  \"orientation\": \"vertical\",\n  \"resolution\": \"8K\",\n  \"ratio\": \"9:16\",\n  \"category\": \"boudoir\",\n  \"tags\": [\"cinematic\", \"realistic\", \"female\", \"asian\", \"hotel\", \"lingerie\"],\n\n  \"subject\": {\n    \"gender\": \"female\",\n    \"age\": 25,\n    \"ethnicity\": \"Southeast Asian\",\n    \"face_reference\": \"\",\n    \"body_type\": \"slim-toned-hourglass\",\n    \"expression\": \"seductive gaze with half-closed eyes and slightly parted lips\"\n  },\n\n  \"clothing\": {\n    \"type\": \"sheer white lace bodysuit\",\n    \"color\": \"white\",\n    \"pattern\": \"delicate floral lace\",\n    \"accessories\": [\"white fishnet stockings\", \"white lace choker\"]\n  },\n\n  \"scene\": {\n    \"environment\": \"5-star hotel suite at night\",\n    \"background\": \"king-size bed with white silk sheets, large window with city night view\",\n    \"props\": [\"white silk sheets\", \"crystal chandelier\", \"velvet armchair\", \"wine glass\"],\n    \"lighting\": \"warm yellow light from bedside lamps and crystal chandelier\",\n    \"mood\": \"intimate, luxurious, romantic, sensual\"\n  },\n\n  \"camera\": {\n    \"angle\": \"low-medium angle\",\n    \"distance\": \"medium shot\",\n    \"lens\": \"50mm\",\n    \"depth_of_field\": \"shallow\",\n    \"focus\": \"on subject's face and upper body\"\n  },\n\n  \"style\": {\n    \"render\": \"ultra-realistic\",\n    \"tone\": \"warm\",\n    \"color_grade\": \"teal-orange cinematic\",\n    \"texture\": \"high detail skin, delicate lace fabric, soft silk sheets, velvet carpet\",\n    \"post_effects\": [\"soft glow\", \"depth haze\", \"subtle film grain\"]\n  },\n\n  \"output\": {\n    \"format\": \"png\",\n    \"quality\": \"high\",\n    \"enhancement\": [\"sharpness+\", \"contrast+\"],\n    \"watermark\": false\n  },\n\n  \"prompt\": \"Create an ultra-realistic 8K cinematic boudoir portrait of a 25-year-old Southeast Asian woman with a slim-toned hourglass body. She is in a 5-star hotel suite at night, wearing a sheer white lace bodysuit (95% transparent, 0.05mm fabric), white fishnet stockings, and a white lace choker. Her expression is a seductive gaze with half-closed eyes. The scene is set in a 50m2 room with cream silk wallpaper, a king-size bed with white silk sheets, and a large window overlooking the sparkling city night. Lighting is warm yellow from bedside lamps and a crystal chandelier, creating soft shadows and a romantic, sensual mood. Camera angle is low-medium, 50mm f/1.8 lens, shallow depth of field. Professional photography, film still, teal-orange color grade, photorealistic, natural skin texture. Ultra-photorealistic, 8K HDR.\",\n  \n  \"negative_prompt\": \"naked, nude, nipples visible, genitals exposed, explicit sexual content, pornographic, sexual act, intercourse, underage, child-like, minor, teen, young, loli, shota, deformed hands, blurry face, bad anatomy, overexposed lighting, distorted proportions, 2D, 2.5D, 3D render, CGI, anime, cartoon, illustration, painting, drawing, artificial, fake skin\"\n}",
+    "imagePath": "logs/images/2025-10-18T17-01-33-839Z.png",
+    "promptPath": "logs/prompts/2025-10-18T17-01-33-839Z.md"
+  },
+  {
     "timestamp": "2025-10-18T16:27:13.628Z",
     "ipAddress": "171.253.185.249",
     "formData": {
