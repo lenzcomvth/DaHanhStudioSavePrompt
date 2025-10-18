@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2025-10-18T03:05:58.588Z",
+    "ipAddress": "171.253.185.249",
+    "formData": {
+      "gender": "Nam",
+      "framing": "Chân dung",
+      "background": "Tập trung nhân vật",
+      "swarpFace": true,
+      "theme": "",
+      "location": "",
+      "action": "[Tạo ảnh nâng cao - Gốc]",
+      "emotion": "",
+      "style": "",
+      "resolution": "4K",
+      "aspectRatio": "9:16"
+    },
+    "generatedPrompt": "Ảnh siêu thực, góc nhìn điện ảnh, siêu nét, không 3D\n\nMột người phụ nữ trẻ có làn da trắng mịn tự nhiên, dáng thon gọn, ba vòng rõ ràng, cân đối và đầy gợi cảm như người mẫu chuyên nghiệp.\nCô có mái tóc dài màu bạch kim, uốn sóng nhẹ bồng bềnh, chia ngôi lệch và xõa mềm qua vai, từng lọn tóc bắt sáng chân thực dưới ánh đèn vàng ấm.\n\nGương mặt cô đầy đặn, thanh tú, gò má cao nhẹ, lông mày cong mảnh, mi đen dài, đôi mắt sâu, gợi cảm, và đôi môi dày phủ son đỏ nổi bật.\nCổ thon dài, đeo vòng cổ kim loại mảnh lấp lánh, toát lên vẻ sang trọng, nữ tính và tinh tế.\n\nPhông nền: Phòng ngủ thật, ánh sáng ấm dịu. Phía sau là bức tường hoặc đầu giường tối màu, góc trên bên phải có nguồn sáng vàng nhẹ, có thể từ đèn ngủ hoặc ánh hắt tự nhiên, tạo không khí ấm áp, gần gũi và riêng tư.\n\nTư thế: Cô đứng tựa nhẹ vào tường hoặc bàn trang điểm, dáng thư giãn nhưng đầy tự tin, ngực hơi ưỡn tự nhiên, tay đặt hờ dọc cơ thể.\nCô đi giày cao gót đen, làm nổi bật đôi chân dài, thon thả và đường cong quyến rũ.\n\nTrang phục: Cô mặc bộ nội y ren đỏ rực, thiết kế tinh xảo với dây quai mảnh và cổ khoét sâu, tôn lên vòng một căng tràn, eo thon nhỏ và vòng hông mềm mại.\nRen hoa tinh tế, đường viền mảnh và sắc nét, phản chiếu ánh sáng thật, thể hiện vẻ đẹp sang trọng và quyến rũ hiện đại.\n\nÁnh sáng: Ánh sáng thật, mềm, ấm, khuếch tán nhẹ từ góc phải, chiếu qua tóc và da, tạo độ bóng mịn chân thật, không ánh ảo, không hiệu ứng 3D.\nCác mảng sáng tối rõ ràng, độ chuyển sáng mượt, giúp làn da, ánh mắt, và chất liệu vải trở nên sống động và có chiều sâu thực tế.\n\nPhong cách nghệ thuật:\n\nSiêu chân thực (Ultra-photorealistic), độ phân giải cực cao (8K HDR).\n\nChụp bằng góc máy điện ảnh (cinematic angle), ống kính 50mm – f/1.8, bokeh hậu cảnh tự nhiên.\n\nTông màu ấm, ánh sáng thật, phản xạ da chính xác, như ảnh chụp thật bằng máy ảnh DSLR full-frame.\n\nKhông CGI, không hoạt hình, không 2D/3D.\n\nPhong cách boudoir cao cấp, sang trọng, tinh tế, quyến rũ, mang tinh thần thời trang và nghệ thuật nhiếp ảnh thực thụ.",
+    "imagePath": "logs/images/2025-10-18T03-05-58-588Z.png",
+    "promptPath": "logs/prompts/2025-10-18T03-05-58-588Z.md"
+  },
+  {
     "timestamp": "2025-10-18T03:04:52.121Z",
     "ipAddress": "171.253.185.249",
     "formData": {
