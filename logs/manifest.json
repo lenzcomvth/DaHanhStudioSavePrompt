@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2025-10-18T01:01:37.522Z",
+    "ipAddress": "171.253.185.249",
+    "formData": {
+      "gender": "Nam",
+      "framing": "Chân dung",
+      "background": "Tập trung nhân vật",
+      "swarpFace": true,
+      "theme": "",
+      "location": "",
+      "action": "",
+      "emotion": "",
+      "style": "",
+      "resolution": "4K",
+      "aspectRatio": "9:16"
+    },
+    "generatedPrompt": "[Tạo ảnh nâng cao - Biến thể F:1/1 V:9/10] Create: a hyper-realistic portrait photo of a stunning Asian woman gently dipping her toes into the turquoise water from the side of the yacht, on a luxury white yacht deck in tropical scenery. She has long, wavy brown hair flowing gently in the breeze, smooth radiant skin, and a natural elegant look. She wears a minimal white string bikini and delicate jewelry — a silver necklace and bracelet. Soft natural sunlight illuminates her face and body, creating a warm gentle glow. Background shows emerald turquoise sea water and tall limestone cliffs covered with lush green tropical vegetation. From a low angle, focusing on her graceful movement, cinematic composition, 85mm lens, bokeh background, ultra sharp details, high resolution 8K, natural color grading.",
+    "imagePath": "logs/images/2025-10-18T01-01-37-522Z.png",
+    "promptPath": "logs/prompts/2025-10-18T01-01-37-522Z.md"
+  },
+  {
     "timestamp": "2025-10-18T01:01:28.938Z",
     "ipAddress": "171.253.185.249",
     "formData": {
