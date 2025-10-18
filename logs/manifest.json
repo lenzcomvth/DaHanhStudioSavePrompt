@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2025-10-18T04:04:34.656Z",
+    "ipAddress": "171.225.249.126",
+    "formData": {
+      "gender": "Nam",
+      "framing": "Chân dung",
+      "background": "Tập trung nhân vật",
+      "swarpFace": true,
+      "theme": "",
+      "location": "",
+      "action": "[Tạo ảnh nâng cao - Biến thể F:1/1 V:5/10]",
+      "emotion": "",
+      "style": "",
+      "resolution": "4K",
+      "aspectRatio": "9:16"
+    },
+    "generatedPrompt": "Suggestion (Romantic, Sexy, Surreal Couple on Luxury Yacht)Create a surreal 8K HDR image of a romantic couple, using real faces uploaded without changing their facial structure.ManSlightly chubby body, clearly showing pregnant bellyShirtless, wearing only bright red swimming trunks (speedo style)Sitting close behind the woman, arms tightly around her waist, leaning forward, whispering something in her ear with a mischievous, sexy smile.Beautiful young Vietnamese woman 20 years old:Her body is sexy and perfectly curvaceous: she is 170 cm tall, weighs about 52 kg, with a natural bust of more than 98 cm. Her breasts are high, round and full and full — they look very heavy and prominent even when standing still. Her slim waist is 48 cm and her hips are 97 cm wide, creating a sharp hourglass shape, helping her stand out in any outfit. Long, naturally curly brown hair, a few strands of hair fluttering in the windThe natural, light Korean-style makeup further enhances the radianceWearing a bright red bikini tied on the side, it stands out, wet and sparkling under the sunlightSitting in front of the man, leaning back against his chest intimately, her head thrown back slightly as she laughs softly, her charming gaze full of joy.Scene & SpaceSetting: On a luxurious speedboat near the driver's white steering wheelSetting: The clear blue ocean stretches to the horizon under the blue summer skySunshine sparkles on the water, the reflected rays dance on their skin, adding depth and depthA playful dolphin jumps in the distance, adding vitality and romanceTheir skin and clothes sparkle gently, expressing the warmth of the sunlight and sea breezeCamera & Mind moodFull body shot from a low angle, emphasizing their connection and the vastness of the ocean around them, with the playful dolphin in the background.Cinematic depth of field with bright highlights and soft shadowsRomantic, sensual mood: closeness, warmth and passion expressed through body language and eyesVivid colors, realistic skin tones, and ultra-detailed textures for lifelike results",
+    "imagePath": "logs/images/2025-10-18T04-04-34-656Z.png",
+    "promptPath": "logs/prompts/2025-10-18T04-04-34-656Z.md"
+  },
+  {
     "timestamp": "2025-10-18T04:04:13.533Z",
     "ipAddress": "171.225.249.126",
     "formData": {
