@@ -1,5 +1,25 @@
 [
   {
+    "timestamp": "2025-10-18T03:04:52.121Z",
+    "ipAddress": "171.253.185.249",
+    "formData": {
+      "gender": "Nam",
+      "framing": "Chân dung",
+      "background": "Tập trung nhân vật",
+      "swarpFace": true,
+      "theme": "",
+      "location": "",
+      "action": "[Tạo ảnh nâng cao - Gốc]",
+      "emotion": "",
+      "style": "",
+      "resolution": "4K",
+      "aspectRatio": "9:16"
+    },
+    "generatedPrompt": "Một người phụ nữ trẻ có làn da trắng mịn màng tự nhiên, dáng thon gọn nhưng đầy đặn và gợi cảm với ba vòng rõ ràng, cân đối như người mẫu chuyên nghiệp.\nCô có mái tóc dài màu bạch kim, được uốn sóng nhẹ bồng bềnh, chia ngôi lệch, xõa mềm qua vai, phản chiếu ánh sáng ấm trên từng lọn tóc.\nKhuôn mặt cô đầy đặn, thanh tú, gò má cao nhẹ, lông mày cong thanh mảnh, mi dài đen, ánh mắt gợi cảm và sâu, đôi môi dày phủ son đỏ tạo điểm nhấn mạnh mẽ.\nCổ cô thon dài, đeo vòng cổ kim loại mảnh lấp lánh, tôn lên vẻ sang trọng và nữ tính.\n\nPhông nền: Một phòng ngủ thật với ánh sáng mờ ấm áp, phía sau là bức tường hoặc đầu giường tối màu, ở góc trên bên phải có nguồn sáng nhẹ như đèn ngủ hoặc ánh hắt từ cửa sổ, tạo không khí thân mật, gần gũi và tinh tế.\n\nTư thế: Cô đứng trong hành lang hoặc góc phòng, tựa nhẹ vào tường, dáng thư giãn nhưng đầy quyến rũ, ngực hơi ưỡn tự nhiên, tay đặt hờ, tạo cảm giác vừa tự tin vừa gợi cảm.\nCô đi giày cao gót đen, giúp tăng chiều cao và đường cong chân mảnh mai.\n\nTrang phục: Cô mặc bộ nội y ren đỏ rực rỡ, thiết kế tinh xảo với dây quai mảnh và cổ khoét sâu, làm nổi bật vòng một đầy đặn, eo nhỏ, và vòng hông cong tự nhiên.\nHọa tiết ren hoa mềm mại và chi tiết ren viền mảnh, thể hiện sự sang trọng và hấp dẫn mà vẫn giữ nét nghệ thuật cao cấp.\n\nÁnh sáng: Ánh sáng mềm, ấm, tự nhiên, chiếu từ góc phải hoặc phía sau, tạo hiệu ứng phản sáng nhẹ trên da và tóc, nhấn mạnh đường cong và kết cấu thật của làn da.\nCác mảng sáng tối phân bố tự nhiên, làm nổi bật thân hình và gương mặt, mang lại cảm giác sâu, chân thực và lôi cuốn.\n\nPhong cách nghệ thuật:\nẢnh siêu chân thực (ultra-photorealistic), chụp bằng góc máy thật (50mm – f/1.8) với độ mờ hậu cảnh nhẹ (bokeh tự nhiên).\nTông màu ấm, sang trọng, da và ánh sáng phản chiếu tự nhiên như ảnh chụp studio thời trang cao cấp, mang phong cách boudoir nghệ thuật, quyến rũ và tinh tế — không CGI, không 3D, hoàn toàn như ảnh thật chụp bằng máy ảnh chuyên nghiệp.",
+    "imagePath": "logs/images/2025-10-18T03-04-52-121Z.png",
+    "promptPath": "logs/prompts/2025-10-18T03-04-52-121Z.md"
+  },
+  {
     "timestamp": "2025-10-18T02:55:24.613Z",
     "ipAddress": "171.253.185.249",
     "formData": {
