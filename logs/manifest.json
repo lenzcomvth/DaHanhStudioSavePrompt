@@ -1,5 +1,11 @@
 [
   {
+    "timestamp": "2025-10-19T08:51:04.091Z",
+    "generatedPrompt": "Style blended from content image and 2 style image(s).",
+    "imagePath": "logs/images/2025-10-19T08:51:04.091Z.png",
+    "promptPath": "logs/prompts/2025-10-19T08:51:04.091Z.md"
+  },
+  {
     "timestamp": "2025-10-19T08:29:02.272Z",
     "generatedPrompt": "AI Fitting Room: ",
     "imagePath": "logs/images/2025-10-19T08:29:02.272Z.png",
