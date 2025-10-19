@@ -1,5 +1,11 @@
 [
   {
+    "timestamp": "2025-10-19T07:53:05.111Z",
+    "generatedPrompt": "Style blended from content image and 2 style image(s).",
+    "imagePath": "logs/images/2025-10-19T07:53:05.111Z.png",
+    "promptPath": "logs/prompts/2025-10-19T07:53:05.111Z.md"
+  },
+  {
     "timestamp": "2025-10-19T07:37:00.447Z",
     "generatedPrompt": "Style blended from two images.",
     "imagePath": "logs/images/2025-10-19T07:37:00.447Z.png",
