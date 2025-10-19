@@ -1,5 +1,11 @@
 [
   {
+    "timestamp": "2025-10-19T05:25:33.433Z",
+    "generatedPrompt": "Tạo ảnh thẻ",
+    "imagePath": "logs/images/2025-10-19T05:25:33.433Z.png",
+    "promptPath": "logs/prompts/2025-10-19T05:25:33.433Z.md"
+  },
+  {
     "timestamp": "2025-10-19T05:01:11.120Z",
     "ipAddress": "171.253.185.249",
     "formData": {
