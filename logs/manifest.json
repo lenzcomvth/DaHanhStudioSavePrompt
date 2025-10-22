@@ -1,5 +1,11 @@
 [
   {
+    "timestamp": "2025-10-22T07:52:43.944Z",
+    "generatedPrompt": "Tạo ảnh thẻ",
+    "imagePath": "logs/images/2025-10-22T07-52-43.944Z.png",
+    "promptPath": "logs/prompts/2025-10-22T07-52-43.944Z.md"
+  },
+  {
     "timestamp": "2025-10-22T07:51:04.434Z",
     "generatedPrompt": "Đứng cùng với Lisa(blackPink) đang ở trên bải biễn mặc bịkini\n",
     "imagePath": "logs/images/2025-10-22T07-51-04.434Z.png",
