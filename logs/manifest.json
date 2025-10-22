@@ -1,5 +1,11 @@
 [
   {
+    "timestamp": "2025-10-22T07:41:42.202Z",
+    "generatedPrompt": "Đứng cùng Lisa trên sân khấu, thân mật hơn nữa\n",
+    "imagePath": "logs/images/2025-10-22T07-41-42.202Z.png",
+    "promptPath": "logs/prompts/2025-10-22T07-41-42.202Z.md"
+  },
+  {
     "timestamp": "2025-10-22T07:40:05.413Z",
     "generatedPrompt": "Đứng cùng Lisa trên sân khấu ",
     "imagePath": "logs/images/2025-10-22T07-40-05.413Z.png",
