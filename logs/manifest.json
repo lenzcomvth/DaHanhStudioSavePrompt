@@ -1,5 +1,11 @@
 [
   {
+    "timestamp": "2025-10-22T07:51:04.434Z",
+    "generatedPrompt": "Đứng cùng với Lisa(blackPink) đang ở trên bải biễn mặc bịkini\n",
+    "imagePath": "logs/images/2025-10-22T07-51-04.434Z.png",
+    "promptPath": "logs/prompts/2025-10-22T07-51-04.434Z.md"
+  },
+  {
     "timestamp": "2025-10-22T07:41:42.202Z",
     "generatedPrompt": "Đứng cùng Lisa trên sân khấu, thân mật hơn nữa\n",
     "imagePath": "logs/images/2025-10-22T07-41-42.202Z.png",
