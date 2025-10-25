@@ -1,5 +1,11 @@
 [
   {
+    "timestamp": "2025-10-25T04:32:49.148Z",
+    "generatedPrompt": "Nâng cấp ảnh theo cấu hình Dạ Hành Studio v3.3",
+    "imagePath": "logs/images/2025-10-25T04-32-49.148Z.png",
+    "promptPath": "logs/prompts/2025-10-25T04-32-49.148Z.md"
+  },
+  {
     "timestamp": "2025-10-25T04:25:53.596Z",
     "generatedPrompt": "Nâng cấp ảnh theo cấu hình Dạ Hành Studio v3.3",
     "imagePath": "logs/images/2025-10-25T04-25-53.596Z.png",
